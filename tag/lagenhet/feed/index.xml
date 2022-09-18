@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lägenhet Archives - attefall.digital</title>
+	<atom:link href="/tag/lagenhet/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 31 May 2016 18:24:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>lägenhet Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SÅLD! Lägenhet bostadsrätt i Älta, Nacka</title>
+		<link>/privat/saljes-lagenhet-bostadsratt-alta-nacka/</link>
+					<comments>/privat/saljes-lagenhet-bostadsratt-alta-nacka/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 31 May 2016 18:24:29 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[Älta]]></category>
+		<category><![CDATA[bostadsrätt]]></category>
+		<category><![CDATA[brf]]></category>
+		<category><![CDATA[lägenhet]]></category>
+		<category><![CDATA[Nacka]]></category>
+		<category><![CDATA[säljes]]></category>
+		<category><![CDATA[Stensövägen]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16557</guid>
+
+					<description><![CDATA[<p>Underbar utsikt över Ältasjön! SÅLD - Lägenhet bostadsrätt i Älta, Nacka. </p>
+<p>The post <a rel="nofollow" href="/privat/saljes-lagenhet-bostadsratt-alta-nacka/">SÅLD! Lägenhet bostadsrätt i Älta, Nacka</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/saljes-lagenhet-bostadsratt-alta-nacka/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Undvik fällorna vid lägenhetsköp</title>
+		<link>/privat/undvik-fallorna-vid-lagenhetskop/</link>
+					<comments>/privat/undvik-fallorna-vid-lagenhetskop/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 12 Oct 2010 14:20:49 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[bostad]]></category>
+		<category><![CDATA[ekonomi]]></category>
+		<category><![CDATA[lägenhet]]></category>
+		<category><![CDATA[lägenhetsköp]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2366</guid>
+
+					<description><![CDATA[<p>Bostadsköp hör till livets större affärer. Men det finns flera ekonomiska fallgropar för den som vill köpa bostadsrätt.<br />
+Under augusti ökade antalet bostadsrätter till salu med 19 procent jämfört med i fjol. Men bakom nyrenoverade kök och välstädade vardagsrum på visningarna kan det dölja sig dyra överraskningar. Ã–verraskningar som inte alltid framgår av en besiktning. </p>
+<p>The post <a rel="nofollow" href="/privat/undvik-fallorna-vid-lagenhetskop/">Undvik fällorna vid lägenhetsköp</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/undvik-fallorna-vid-lagenhetskop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

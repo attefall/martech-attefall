@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Baidu Archives - attefall.digital</title>
+	<atom:link href="/tag/baidu/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 31 May 2010 08:57:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Baidu Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Världens 1 000 största webbsajterna</title>
+		<link>/datorer-internet/varldens-1-000-storsta-webbsajterna/</link>
+					<comments>/datorer-internet/varldens-1-000-storsta-webbsajterna/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 31 May 2010 08:57:13 +0000</pubDate>
+				<category><![CDATA[Datorer/Internet]]></category>
+		<category><![CDATA[Baidu]]></category>
+		<category><![CDATA[Blogger]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[msn]]></category>
+		<category><![CDATA[Yahoo]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2237</guid>
+
+					<description><![CDATA[<p>Googles annonstjänst, <a class="zem_slink" href="http://google.com/" title="Google" rel="homepage">Google</a> Ad Planner, är en lista som varje månad sammanställer de största webbplatserna på internet. Under april visade det sig att framförallt Facebook har tagit ett jättekliv uppåt. Listan inkluderar dock inte Googles egna tjänster såsom företagets söktjänst, <a class="zem_slink" href="http://www.youtube.com/" title="YouTube" rel="homepage">Youtube</a> och Gmail. </p>
+<p>The post <a rel="nofollow" href="/datorer-internet/varldens-1-000-storsta-webbsajterna/">Världens 1 000 största webbsajterna</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/varldens-1-000-storsta-webbsajterna/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

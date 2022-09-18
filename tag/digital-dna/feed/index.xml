@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Digital DNA Archives - attefall.digital</title>
+	<atom:link href="/tag/digital-dna/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 05 Mar 2015 15:31:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Digital DNA Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Perfect Transaction E-mail, Happy Teams and Customers, Digital DNA, Blogging…</title>
+		<link>/lasvart/perfect-transaction-e-mail-happy-teams-and-culture-digital-dna-blogging/</link>
+					<comments>/lasvart/perfect-transaction-e-mail-happy-teams-and-culture-digital-dna-blogging/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2015 15:31:04 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Blogging]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[digital]]></category>
+		<category><![CDATA[Digital DNA]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[e-handel]]></category>
+		<category><![CDATA[E-mail]]></category>
+		<category><![CDATA[ecommerce]]></category>
+		<category><![CDATA[ehandel]]></category>
+		<category><![CDATA[Happy Teams]]></category>
+		<category><![CDATA[Transaction]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16238</guid>
+
+					<description><![CDATA[<p>* 8 reasons Why Every Small Business Should Be Blogging. Yes, Everyone!<br />
+* How to Create the Perfect Transactional Email<br />
+* 11 Company Culture Hacks for Happy Teams and Customers<br />
+* Canva Design School Blog<br />
+* CSS Shorthand Generator<br />
+* Så påverkas marknadsavdelningen av digitaliseringen<br />
+* Mer digital DNA i ledningen </p>
+<p>The post <a rel="nofollow" href="/lasvart/perfect-transaction-e-mail-happy-teams-and-culture-digital-dna-blogging/">Perfect Transaction E-mail, Happy Teams and Customers, Digital DNA, Blogging…</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/perfect-transaction-e-mail-happy-teams-and-culture-digital-dna-blogging/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Jägarna	</title>
+	<atom:link href="/recensioner/jagarna/feed/" rel="self" type="application/rss+xml" />
+	<link>/recensioner/jagarna/</link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sat, 13 Jan 2007 13:15:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: FilmStaden.Nu&#187; Blog Archive &#187; Rocky		</title>
+		<link>/recensioner/jagarna/#comment-355</link>
+
+		<dc:creator><![CDATA[FilmStaden.Nu&#187; Blog Archive &#187; Rocky]]></dc:creator>
+		<pubDate>Sat, 13 Jan 2007 13:15:32 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/recensioner/jagarna/#comment-355</guid>
+
+					<description><![CDATA[[...] JgarnaBetyg: 4 out of 5 stars Ingr i min DVD-samling. Kommentar: Han, Harry Nyman, som spelar pubgaren i filmen var min dramalrare under mina studier&#8230; [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] JgarnaBetyg: 4 out of 5 stars Ingr i min DVD-samling. Kommentar: Han, Harry Nyman, som spelar pubgaren i filmen var min dramalrare under mina studier&#8230; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

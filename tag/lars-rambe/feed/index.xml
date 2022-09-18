@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lars Rambe Archives - attefall.digital</title>
+	<atom:link href="/tag/lars-rambe/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 30 Sep 2013 06:51:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Lars Rambe Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kvinnorna i sjön av Lars Rambe</title>
+		<link>/recensioner/bocker/kvinnorna-i-sjon-av-lars-rambe/</link>
+					<comments>/recensioner/bocker/kvinnorna-i-sjon-av-lars-rambe/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2013 06:51:20 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[Lars Rambe]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=15369</guid>
+
+					<description><![CDATA[<p>Jag är ledsen Lars Rambe men efter Skuggans spel och Spåren på bryggan så hade jag mycket större förväntningar. Tyvärr var denna bok inte alls i min smak och jag läste endast halva innan jag slutade och började med en annan författare.  </p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/kvinnorna-i-sjon-av-lars-rambe/">Kvinnorna i sjön av Lars Rambe</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/kvinnorna-i-sjon-av-lars-rambe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Skuggans spel av Lars Rambe</title>
+		<link>/recensioner/bocker/skuggans-spel-av-lars-rambe/</link>
+					<comments>/recensioner/bocker/skuggans-spel-av-lars-rambe/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 29 Sep 2013 06:52:30 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[deckare]]></category>
+		<category><![CDATA[Lars Rambe]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=15367</guid>
+
+					<description><![CDATA[<p>Lars Rambe fortsätter, här i sin andra bok, att skriva så bra att det är svårt att lägga ifrån sig boken. Denna gång är Mariefred skådeplatsen och han skriver både miljö- och personskildringar som intriger på ett utmärkt sätt. Läs den. :-) </p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/skuggans-spel-av-lars-rambe/">Skuggans spel av Lars Rambe</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/skuggans-spel-av-lars-rambe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spåren på bryggan av Lars Rambe</title>
+		<link>/recensioner/bocker/sparen-pa-bryggan-av-lars-rambe/</link>
+					<comments>/recensioner/bocker/sparen-pa-bryggan-av-lars-rambe/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2013 08:36:20 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[deckare]]></category>
+		<category><![CDATA[Lars Rambe]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=15364</guid>
+
+					<description><![CDATA[<p>Lars Rambes första bok är, rent ut sagt, grym. Dessutom är det mitt första möte med honom och han gjorde mig inte besviken. Mord, historia och en spännande intrig i Strängnäs. Vad mer behövs? :-) </p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/sparen-pa-bryggan-av-lars-rambe/">Spåren på bryggan av Lars Rambe</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/sparen-pa-bryggan-av-lars-rambe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

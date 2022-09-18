@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>John Harvey Archives - attefall.digital</title>
+	<atom:link href="/tag/john-harvey/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sat, 12 Sep 2009 07:49:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>John Harvey Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Till stoft och aska av John Harvey</title>
+		<link>/recensioner/bocker/till-stoft-och-aska-av-john-harvey/</link>
+					<comments>/recensioner/bocker/till-stoft-och-aska-av-john-harvey/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 12 Sep 2009 07:49:19 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[bok]]></category>
+		<category><![CDATA[John Harvey]]></category>
+		<category><![CDATA[recension]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1543</guid>
+
+					<description><![CDATA[<p>[rating:4] Ingår i mitt bibliotek. När polisen stormar en misstänkt mans lägenhet går något snett. Röken skingras och en polisman är död, liksom den misstänkte mannen. För detektiv Maddy Birch, som blir vittne till hela incidenten, är det uppenbart att det är något som inte stämmer. I Cornwall störs den före detta polisen Frank Elders [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/till-stoft-och-aska-av-john-harvey/">Till stoft och aska av John Harvey</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/till-stoft-och-aska-av-john-harvey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

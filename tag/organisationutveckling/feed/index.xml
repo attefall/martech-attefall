@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>organisationutveckling Archives - attefall.digital</title>
+	<atom:link href="/tag/organisationutveckling/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 12 Dec 2010 10:53:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>organisationutveckling Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hur företag kan effektivisera sina affärer</title>
+		<link>/projektledning-utveckling/hur-foretag-kan-effektivisera-sina-affarer/</link>
+					<comments>/projektledning-utveckling/hur-foretag-kan-effektivisera-sina-affarer/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 12 Dec 2010 10:53:18 +0000</pubDate>
+				<category><![CDATA[Projektledning]]></category>
+		<category><![CDATA[affärsutveckling]]></category>
+		<category><![CDATA[organisationutveckling]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2536</guid>
+
+					<description><![CDATA[<p>Jag har tidigare bland annat haft möjlighet att strukturera upp en avdelning med hjälp av att implementera en ny projektmodell samt arbets- och utvecklingsprocesser. En av de första åtgärderna jag gjorde var att starta ett råd som skulle vara sammanlänkande mellan avdelningarna och beslutande angående all utveckling i företaget. Där satt representanter från alla affärsområdena [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/projektledning-utveckling/hur-foretag-kan-effektivisera-sina-affarer/">Hur företag kan effektivisera sina affärer</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/projektledning-utveckling/hur-foretag-kan-effektivisera-sina-affarer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

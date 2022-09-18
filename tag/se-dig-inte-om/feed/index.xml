@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>se dig inte om Archives - attefall.digital</title>
+	<atom:link href="/tag/se-dig-inte-om/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 02 Oct 2008 12:28:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>se dig inte om Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Se dig inte om av Karin Fossum</title>
+		<link>/recensioner/bocker/se-dig-inte-om-av-karin-fossum/</link>
+					<comments>/recensioner/bocker/se-dig-inte-om-av-karin-fossum/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2008 12:28:16 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[bok]]></category>
+		<category><![CDATA[karin fossum]]></category>
+		<category><![CDATA[recension]]></category>
+		<category><![CDATA[se dig inte om]]></category>
+		<guid isPermaLink="false">https://attefall.se/recensioner/bocker/se-dig-inte-om-av-karin-fossum/</guid>
+
+					<description><![CDATA[<p>[rating:4] Ingår i mitt bibliotek. /&#8230;/ En femtonårig flicka hittas död intill en skogstjärn. Hon är naken, men inte våldtagen, och någon har täckt över henne med en jacka. Kommissarie Konrad Sejer ställs inför ett svårlöst mysterium när han blir ansvarig för mordutredningen. Vem kan ha velat ta livet av Annie Holland, en helt vanlig [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/se-dig-inte-om-av-karin-fossum/">Se dig inte om av Karin Fossum</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/se-dig-inte-om-av-karin-fossum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

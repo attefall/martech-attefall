@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gatorade Archives - attefall.digital</title>
+	<atom:link href="/tag/gatorade/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 19 Oct 2010 08:10:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>gatorade Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gatorades Social Media Mission Control Room</title>
+		<link>/datorer-internet/internet-datorer-internet/gatorades-social-media-mission-control-room/</link>
+					<comments>/datorer-internet/internet-datorer-internet/gatorades-social-media-mission-control-room/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 19 Oct 2010 08:10:52 +0000</pubDate>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Projektledning]]></category>
+		<category><![CDATA[företag]]></category>
+		<category><![CDATA[gatorade]]></category>
+		<category><![CDATA[sociala medier]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2375</guid>
+
+					<description><![CDATA[<p>In a room crammed with flat-screen monitors, Gatorade monitors social media and deduces what its customers want and what's next -- or should be next -- for the multibillion-dollar beverage brand. </p>
+<p>The post <a rel="nofollow" href="/datorer-internet/internet-datorer-internet/gatorades-social-media-mission-control-room/">Gatorades Social Media Mission Control Room</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/internet-datorer-internet/gatorades-social-media-mission-control-room/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

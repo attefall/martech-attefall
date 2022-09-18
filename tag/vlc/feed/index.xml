@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VLC Archives - attefall.digital</title>
+	<atom:link href="/tag/vlc/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 19 Feb 2015 15:30:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>VLC Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Marketing Tools, VLC with Chromecast, Creative Twitter Updates, Google Authorship…</title>
+		<link>/lasvart/marketing-tools-vlc-with-chromecast-creative-twitter-updates-google-authorship/</link>
+					<comments>/lasvart/marketing-tools-vlc-with-chromecast-creative-twitter-updates-google-authorship/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2015 15:30:57 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[Authorship]]></category>
+		<category><![CDATA[Chromecast]]></category>
+		<category><![CDATA[Content Marketing]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[VLC]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16201</guid>
+
+					<description><![CDATA[<p>Marketing Tools, VLC with Chromecast, Creative Twitter Updates, Google Authorship…</p>
+<p>The post <a rel="nofollow" href="/lasvart/marketing-tools-vlc-with-chromecast-creative-twitter-updates-google-authorship/">Marketing Tools, VLC with Chromecast, Creative Twitter Updates, Google Authorship…</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/marketing-tools-vlc-with-chromecast-creative-twitter-updates-google-authorship/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>VLC 1.0 i skarp version finns nu för ne&#8230;</title>
+		<link>/twitter/vlc-1-0-i-skarp-version-finns-nu-for-ne/</link>
+					<comments>/twitter/vlc-1-0-i-skarp-version-finns-nu-for-ne/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2009 08:38:01 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[mediaspelare]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[VLC]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/vlc-1-0-i-skarp-version-finns-nu-for-ne/</guid>
+
+					<description><![CDATA[<p>VLC 1.0 i skarp version finns nu för nerladdning: http://www.videolan.org/vlc/index2.html (via http://bit.ly/vXSYo)</p>
+<p>The post <a rel="nofollow" href="/twitter/vlc-1-0-i-skarp-version-finns-nu-for-ne/">VLC 1.0 i skarp version finns nu för ne&#8230;</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/vlc-1-0-i-skarp-version-finns-nu-for-ne/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

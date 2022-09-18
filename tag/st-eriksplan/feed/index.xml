@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>st eriksplan Archives - attefall.digital</title>
+	<atom:link href="/tag/st-eriksplan/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 07 Apr 2010 19:19:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>st eriksplan Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>St Eriksplan in April</title>
+		<link>/foton/st-eriksplan-in-april/</link>
+					<comments>/foton/st-eriksplan-in-april/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 07 Apr 2010 19:19:14 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[april]]></category>
+		<category><![CDATA[moblog]]></category>
+		<category><![CDATA[st eriksplan]]></category>
+		<category><![CDATA[vår]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/st-eriksplan-in-april/</guid>
+
+					<description><![CDATA[<p>A dark but "warm" night at S:t Eriksplan, Stockholm city. </p>
+<p>The post <a rel="nofollow" href="/foton/st-eriksplan-in-april/">St Eriksplan in April</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/st-eriksplan-in-april/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>St Eriksplan in March</title>
+		<link>/foton/st-eriksplan-in-march/</link>
+					<comments>/foton/st-eriksplan-in-march/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2010 19:31:44 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[snö]]></category>
+		<category><![CDATA[st eriksplan]]></category>
+		<category><![CDATA[vinter]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/st-eriksplan-in-march/</guid>
+
+					<description><![CDATA[<p>A dark, cold and snowy night at S:t Eriksplan, Stockholm city. </p>
+<p>The post <a rel="nofollow" href="/foton/st-eriksplan-in-march/">St Eriksplan in March</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/st-eriksplan-in-march/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

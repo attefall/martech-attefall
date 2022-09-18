@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Skugga Archives - attefall.digital</title>
+	<atom:link href="/tag/skugga/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 19 Mar 2013 11:33:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Skugga Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Shadow Girl</title>
+		<link>/foton/the-shadow-girl/</link>
+					<comments>/foton/the-shadow-girl/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2013 11:33:29 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[bild]]></category>
+		<category><![CDATA[fotografi]]></category>
+		<category><![CDATA[Skugga]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=15035</guid>
+
+					<description><![CDATA[<p>The Shadow Girl - Maria. </p>
+<p>The post <a rel="nofollow" href="/foton/the-shadow-girl/">The Shadow Girl</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/the-shadow-girl/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fotosöndag &#8211; Skugga</title>
+		<link>/foton/fotosondag-skugga/</link>
+					<comments>/foton/fotosondag-skugga/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2013 19:45:27 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[fotosöndag]]></category>
+		<category><![CDATA[Skugga]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=15002</guid>
+
+					<description><![CDATA[<p>Mitt bidrag till Fotosöndag på temat Skugga. </p>
+<p>The post <a rel="nofollow" href="/foton/fotosondag-skugga/">Fotosöndag &#8211; Skugga</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/fotosondag-skugga/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Skugga av Karin Alvtegen</title>
+		<link>/recensioner/bocker/skugga-av-karin-alvtegen/</link>
+					<comments>/recensioner/bocker/skugga-av-karin-alvtegen/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 22 Jul 2011 10:51:40 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[bok]]></category>
+		<category><![CDATA[deckare]]></category>
+		<category><![CDATA[karin alvtegen]]></category>
+		<category><![CDATA[recension]]></category>
+		<category><![CDATA[Skugga]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=13456</guid>
+
+					<description><![CDATA[<p>Nobelpristagaren Axel Ragnerfeldt har allt han någonsin kunnat drömma om. Älskad, beundrad och högaktad för sina böcker kan han se tillbaka på ett långt liv kantat av framgång och respekt... </p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/skugga-av-karin-alvtegen/">Skugga av Karin Alvtegen</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/skugga-av-karin-alvtegen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

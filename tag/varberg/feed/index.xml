@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>varberg Archives - attefall.digital</title>
+	<atom:link href="/tag/varberg/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 13 Sep 2005 12:57:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>varberg Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ankare</title>
+		<link>/foton/ankare/</link>
+					<comments>/foton/ankare/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 13 Sep 2005 12:57:56 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[ankare]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[varberg]]></category>
+		<category><![CDATA[vatten]]></category>
+		<guid isPermaLink="false">https://attefall.se/2005/09/13/ankare/</guid>
+
+					<description><![CDATA[<p>Ankare i varberg.</p>
+<p>The post <a rel="nofollow" href="/foton/ankare/">Ankare</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/ankare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Solnedgång i Varberg</title>
+		<link>/foton/solnedgang-i-varberg/</link>
+					<comments>/foton/solnedgang-i-varberg/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2005 08:50:51 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[sol]]></category>
+		<category><![CDATA[solnedgång]]></category>
+		<category><![CDATA[varberg]]></category>
+		<guid isPermaLink="false">https://attefall.se/2005/09/12/solnedgang-i-varberg/</guid>
+
+					<description><![CDATA[<p>Solnedgång i Varberg.</p>
+<p>The post <a rel="nofollow" href="/foton/solnedgang-i-varberg/">Solnedgång i Varberg</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/solnedgang-i-varberg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

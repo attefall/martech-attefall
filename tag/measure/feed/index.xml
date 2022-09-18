@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Measure Archives - attefall.digital</title>
+	<atom:link href="/tag/measure/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 05 Apr 2015 15:31:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Measure Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Measure Sales &#038; Leads, Productivity Hacks, Twitter Curator, Adobe Slate&#8230;</title>
+		<link>/lasvart/measure-sales-leads-productivity-hacks-twitter-curator-adobe-slate/</link>
+					<comments>/lasvart/measure-sales-leads-productivity-hacks-twitter-curator-adobe-slate/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2015 15:31:04 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[Adobe Slate]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Leads]]></category>
+		<category><![CDATA[Measure]]></category>
+		<category><![CDATA[Productivity]]></category>
+		<category><![CDATA[Sales]]></category>
+		<category><![CDATA[Slate]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Twitter Curator]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16361</guid>
+
+					<description><![CDATA[<p>* The 3-Step Process To Answering Even The Toughest Questions<br />
+* The In-Depth Guide to Using Pocket<br />
+* Content Marketing: What To Measure Beyond Sales &#38; Leads<br />
+* Stock photos that don’t suck<br />
+* Productivity Hacks From Startup Execs<br />
+* Oh, How Pinteresting!, The Save button for the internet<br />
+* Introducing Twitter Curator, a new way to find and display great Twitter content<br />
+* Introducing Adobe Slate</p>
+<p>The post <a rel="nofollow" href="/lasvart/measure-sales-leads-productivity-hacks-twitter-curator-adobe-slate/">Measure Sales &amp; Leads, Productivity Hacks, Twitter Curator, Adobe Slate&#8230;</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/measure-sales-leads-productivity-hacks-twitter-curator-adobe-slate/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

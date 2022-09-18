@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dan buthler Archives - attefall.digital</title>
+	<atom:link href="/tag/dan-buthler/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 29 Jan 2015 07:28:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>dan buthler Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>En nästan vanlig man av Dan Buthler och Dag Öhrlund</title>
+		<link>/recensioner/bocker/en-nastan-vanlig-man-av-dan-buthler-och-dag-ohrlund/</link>
+					<comments>/recensioner/bocker/en-nastan-vanlig-man-av-dan-buthler-och-dag-ohrlund/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2015 07:28:18 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[dag öhrlund]]></category>
+		<category><![CDATA[dan buthler]]></category>
+		<category><![CDATA[deckare]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16129</guid>
+
+					<description><![CDATA[<p>Christopher Silfverbielke är stjärnmäklare i Stureplans finansvärld. Beundrad och avundad, men helt känslokall och hänsynslös under den charmiga ytan. Van att få vad han vill. Och vem han vill. Men miljonerna och framgångarna är inte nog. Han kräver mer, mycket mer. </p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/en-nastan-vanlig-man-av-dan-buthler-och-dag-ohrlund/">En nästan vanlig man av Dan Buthler och Dag Öhrlund</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/en-nastan-vanlig-man-av-dan-buthler-och-dag-ohrlund/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mord.net av Dan Buthler och Dag Ã–hrlund</title>
+		<link>/recensioner/bocker/mordnet-av-dan-buthler-och-dag-ohrlund/</link>
+					<comments>/recensioner/bocker/mordnet-av-dan-buthler-och-dag-ohrlund/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 22 Oct 2007 05:00:48 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[bok]]></category>
+		<category><![CDATA[dag öhrlund]]></category>
+		<category><![CDATA[dan buthler]]></category>
+		<category><![CDATA[mord.net]]></category>
+		<guid isPermaLink="false">https://attefall.se/recensioner/bocker/mordnet-av-dan-buthler-och-dag-ohrlund/</guid>
+
+					<description><![CDATA[<p>[rating:4] Ingår i mitt bibliotek. Kommentar: Mord.net är en myket spännande och intressant uppbyggd bok som inte släpper taget om dig. Den är uppbyggd på ett annorlunda sätt med att vi får följa med gärningsmäning i större delen av boken. Det enda jag har invändningar mot är att det blir för många exempel på gärningsmän [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/mordnet-av-dan-buthler-och-dag-ohrlund/">Mord.net av Dan Buthler och Dag Ã–hrlund</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/mordnet-av-dan-buthler-och-dag-ohrlund/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

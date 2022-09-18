@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>skymning Archives - attefall.digital</title>
+	<atom:link href="/tag/skymning/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sat, 13 Nov 2010 10:48:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>skymning Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Street lamps at Djurgården, Stockholm</title>
+		<link>/foton/street-lamps-at-djurgarden-stockholm/</link>
+					<comments>/foton/street-lamps-at-djurgarden-stockholm/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 13 Nov 2010 10:48:10 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[Bilder]]></category>
+		<category><![CDATA[djurgården]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[lampor]]></category>
+		<category><![CDATA[skymning]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/street-lamps-at-djurgarden-stockholm/</guid>
+
+					<description><![CDATA[<p>A little bit cold but wonderful walk. :-) </p>
+<p>The post <a rel="nofollow" href="/foton/street-lamps-at-djurgarden-stockholm/">Street lamps at Djurgården, Stockholm</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/street-lamps-at-djurgarden-stockholm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

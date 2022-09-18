@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>karlstad Archives - attefall.digital</title>
+	<atom:link href="/tag/karlstad/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 04 Oct 2007 12:27:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>karlstad Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SJ auktionerar ut tågbiljetter</title>
+		<link>/resebloggen/tag/sj-auktionerar-ut-tagbiljetter/</link>
+					<comments>/resebloggen/tag/sj-auktionerar-ut-tagbiljetter/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 04 Oct 2007 12:27:42 +0000</pubDate>
+				<category><![CDATA[Tåg]]></category>
+		<category><![CDATA[auktion]]></category>
+		<category><![CDATA[biljett]]></category>
+		<category><![CDATA[borlänge]]></category>
+		<category><![CDATA[falun]]></category>
+		<category><![CDATA[göteborg]]></category>
+		<category><![CDATA[karlstad]]></category>
+		<category><![CDATA[malmö]]></category>
+		<category><![CDATA[resa]]></category>
+		<category><![CDATA[sj]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<category><![CDATA[sundsvall]]></category>
+		<guid isPermaLink="false">https://attefall.se/resebloggen/tag/sj-auktionerar-ut-tagbiljetter/</guid>
+
+					<description><![CDATA[<p>[bild från sj.se] SJ har börjat sälja biljetter via nätauktioner. Du kan få, med mycket tur, en enkelresa från Stockholm till Göteborg för en krona. /&#8230;/ SJ ska auktionera ut 6.000 biljetter per vecka. Företaget ska börja sälja biljetter på linjerna Stockholm-Göteborg, Stockholm-Malmö, Stockholm-Karlstad, Stockholm-Falun/Borlänge och Stockholm-Sundsvall. [Besök SJ] [Via dn.se]</p>
+<p>The post <a rel="nofollow" href="/resebloggen/tag/sj-auktionerar-ut-tagbiljetter/">SJ auktionerar ut tågbiljetter</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/resebloggen/tag/sj-auktionerar-ut-tagbiljetter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

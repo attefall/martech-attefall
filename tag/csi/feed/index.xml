@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>csi Archives - attefall.digital</title>
+	<atom:link href="/tag/csi/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 04 Jun 2008 13:14:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>csi Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ciscos produkter i 24, Heroes och CSI:NY</title>
+		<link>/positiva-nyheter/cisco-heroes-csi-ny-24-tv-movies/</link>
+					<comments>/positiva-nyheter/cisco-heroes-csi-ny-24-tv-movies/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2008 13:14:22 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[24]]></category>
+		<category><![CDATA[cisco]]></category>
+		<category><![CDATA[csi]]></category>
+		<category><![CDATA[heroes]]></category>
+		<category><![CDATA[tv]]></category>
+		<guid isPermaLink="false">https://attefall.se/positiva-nyheter/cisco-heroes-csi-ny-24-tv-movies/</guid>
+
+					<description><![CDATA[<p>[bilder från cisco.se] Nu har jag lagt upp tre TV-banners på cisco.se. På den här sidan kan du se Ciscos produkter i TV-serierna 24, CSI:NY och Heroes. 🙂</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/cisco-heroes-csi-ny-24-tv-movies/">Ciscos produkter i 24, Heroes och CSI:NY</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/cisco-heroes-csi-ny-24-tv-movies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

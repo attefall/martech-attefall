@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>idg Archives - attefall.digital</title>
+	<atom:link href="/tag/idg/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 09 Apr 2010 08:12:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>idg Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Magnus Attefall har en av de bästa företagsbloggarna i Sverige</title>
+		<link>/positiva-nyheter/magnus-attefall-har-en-av-de-basta-foretagsbloggarna-i-sverige/</link>
+					<comments>/positiva-nyheter/magnus-attefall-har-en-av-de-basta-foretagsbloggarna-i-sverige/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 09 Apr 2010 08:12:50 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[Privat]]></category>
+		<category><![CDATA[computer sweden]]></category>
+		<category><![CDATA[företagsblogg]]></category>
+		<category><![CDATA[idg]]></category>
+		<category><![CDATA[internetworld]]></category>
+		<category><![CDATA[magnus attefall]]></category>
+		<category><![CDATA[resebyrå]]></category>
+		<category><![CDATA[svenska lloyd]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2126</guid>
+
+					<description><![CDATA[<p>Resebyrån Svenska Lloyd har en av de bästa företagsbloggarna i Sverige. Det är marknadschefen Magnus Attefall som sköter bloggandet. </p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/magnus-attefall-har-en-av-de-basta-foretagsbloggarna-i-sverige/">Magnus Attefall har en av de bästa företagsbloggarna i Sverige</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/magnus-attefall-har-en-av-de-basta-foretagsbloggarna-i-sverige/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cisco i partnerskap med CIO på IDG.se</title>
+		<link>/privat/cisco-och-cio-pa-idg/</link>
+					<comments>/privat/cisco-och-cio-pa-idg/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2008 12:02:08 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[cio]]></category>
+		<category><![CDATA[cisco]]></category>
+		<category><![CDATA[Flash]]></category>
+		<category><![CDATA[idg]]></category>
+		<category><![CDATA[jobb]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://attefall.se/privat/cisco-och-cio-pa-idg/</guid>
+
+					<description><![CDATA[<p>Cisco är partner med CIO:s sajt på Idg.se. I och med detta lanserade vi en video med vår VD Sverker Hannervall och jag blev riktigt nöjd med resultatet. 🙂 Välkommen att titta på den! PS. Det kan ta ett tag att ladda högersidan på Idg:s sajt men sedan finns videon där. DS.</p>
+<p>The post <a rel="nofollow" href="/privat/cisco-och-cio-pa-idg/">Cisco i partnerskap med CIO på IDG.se</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/cisco-och-cio-pa-idg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

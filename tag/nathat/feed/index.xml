@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>näthat Archives - attefall.digital</title>
+	<atom:link href="/tag/nathat/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 08 Feb 2013 20:34:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>näthat Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>#blogg100 &#8211; #Nätkärlek och #Näthat</title>
+		<link>/blogg100/blogg100-natkarlek-och-nathat/</link>
+					<comments>/blogg100/blogg100-natkarlek-och-nathat/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 08 Feb 2013 20:34:16 +0000</pubDate>
+				<category><![CDATA[#blogg100]]></category>
+		<category><![CDATA[Privat]]></category>
+		<category><![CDATA[#nätkärlek]]></category>
+		<category><![CDATA[Fredrik Backman]]></category>
+		<category><![CDATA[näthat]]></category>
+		<category><![CDATA[svt]]></category>
+		<category><![CDATA[svtplay]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=14799</guid>
+
+					<description><![CDATA[<p>#Nätkärlek överträffar alltid #Näthat!<br />
+Min #Nätkärlek ger jag till Fredrik Backman som, bara som han kan, kan skriva så jag blir berörd innerst inne... </p>
+<p>The post <a rel="nofollow" href="/blogg100/blogg100-natkarlek-och-nathat/">#blogg100 &#8211; #Nätkärlek och #Näthat</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blogg100/blogg100-natkarlek-och-nathat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Uppdrag granskning – Män som näthatar kvinnor</title>
+		<link>/blogg100/uppdrag-granskning-man-som-nathatar-kvinnor/</link>
+					<comments>/blogg100/uppdrag-granskning-man-som-nathatar-kvinnor/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 06 Feb 2013 20:57:07 +0000</pubDate>
+				<category><![CDATA[#blogg100]]></category>
+		<category><![CDATA[näthat]]></category>
+		<category><![CDATA[uppdrag granskning]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=14785</guid>
+
+					<description><![CDATA[<p>Det är alltså viktigt att alla delar av hat tas upp men att vi inte bara ser till mediet - hatet finns överallt. Vi måste se var hatet kommer från. Då kan vi komma någonstans. </p>
+<p>The post <a rel="nofollow" href="/blogg100/uppdrag-granskning-man-som-nathatar-kvinnor/">Uppdrag granskning – Män som näthatar kvinnor</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blogg100/uppdrag-granskning-man-som-nathatar-kvinnor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

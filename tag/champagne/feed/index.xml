@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Champagne Archives - attefall.digital</title>
+	<atom:link href="/tag/champagne/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 01 Jan 2010 02:15:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Champagne Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Champagne and non-alcoholic beer</title>
+		<link>/twitter/champagne-and-non-alcoholic-be/</link>
+					<comments>/twitter/champagne-and-non-alcoholic-be/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2010 02:15:58 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[2009]]></category>
+		<category><![CDATA[alkoholfri öl]]></category>
+		<category><![CDATA[Champagne]]></category>
+		<category><![CDATA[moblog]]></category>
+		<category><![CDATA[nyårsafton]]></category>
+		<category><![CDATA[öl]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/champagne-and-non-alcoholic-be/</guid>
+
+					<description><![CDATA[<p>Champagne and non-alcoholic beer on ice! Before, during and after the lobsters. 🙂 http://twitpic.com/w4rc0</p>
+<p>The post <a rel="nofollow" href="/twitter/champagne-and-non-alcoholic-be/">Champagne and non-alcoholic beer</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/champagne-and-non-alcoholic-be/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

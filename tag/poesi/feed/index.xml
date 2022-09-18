@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>poesi Archives - attefall.digital</title>
+	<atom:link href="/tag/poesi/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 18 Feb 2013 21:30:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>poesi Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Christer Johansson lyrikdebuterar med Laika</title>
+		<link>/blogg100/christer-johansson-lyrikdebuterar-med-laika/</link>
+					<comments>/blogg100/christer-johansson-lyrikdebuterar-med-laika/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 18 Feb 2013 21:30:46 +0000</pubDate>
+				<category><![CDATA[#blogg100]]></category>
+		<category><![CDATA[Privat]]></category>
+		<category><![CDATA[Christer Johansson]]></category>
+		<category><![CDATA[Laika]]></category>
+		<category><![CDATA[poesi]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=14853</guid>
+
+					<description><![CDATA[<p>Träffade Christer idag under en god lunch och jag fick höra några dikter direkt från författaren själv. Jag är ingen direkt fan av poesi men detta var verk¨ligen någonting för mig - korta, underfundiga och igenkännande texter. </p>
+<p>The post <a rel="nofollow" href="/blogg100/christer-johansson-lyrikdebuterar-med-laika/">Christer Johansson lyrikdebuterar med Laika</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blogg100/christer-johansson-lyrikdebuterar-med-laika/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nyheter &#8211; 13 maj, 2011</title>
+		<link>/lasvart/nyheter-13-maj-2011-2/</link>
+					<comments>/lasvart/nyheter-13-maj-2011-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 14 May 2011 12:30:00 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[aa]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[blogg]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[ehandel]]></category>
+		<category><![CDATA[Instant-poetry]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[kylskåspoesi]]></category>
+		<category><![CDATA[plugin]]></category>
+		<category><![CDATA[poesi]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://attefall.se/lasvart/nyheter-13-maj-2011-2/</guid>
+
+					<description><![CDATA[<p>Korta nyheter och l&#228;sv&#228;rda artiklar Instant poetry till iPhone &#8211; charmig app f&#246;r din inre poet &#8211; MacWorld Gillar du s&#229; kallad &#34;kylsk&#229;pspoesi&#34;? D&#229; kan vi rekommendera appen Instant Poetry som g&#246;r i princip samma sak, fast ger dig lite hj&#228;lp p&#229; v&#228;gen. Komplett e-handel med WordPress &#124; bywire.se Bloggverktyget WordPress har sedan starten 2003 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/lasvart/nyheter-13-maj-2011-2/">Nyheter &#8211; 13 maj, 2011</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/nyheter-13-maj-2011-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

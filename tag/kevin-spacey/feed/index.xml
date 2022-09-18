@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kevin Spacey Archives - attefall.digital</title>
+	<atom:link href="/tag/kevin-spacey/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 23 Jul 2009 08:39:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Kevin Spacey Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kevin Spacey förklarar Twitter för Dav&#8230;</title>
+		<link>/twitter/kevin-spacey-forklarar-twitter-for-dav/</link>
+					<comments>/twitter/kevin-spacey-forklarar-twitter-for-dav/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2009 08:39:33 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Kevin Spacey]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/kevin-spacey-forklarar-twitter-for-dav/</guid>
+
+					<description><![CDATA[<p>Kevin Spacey förklarar Twitter för David Letterman: http://bit.ly/1IRiD (via http://bit.ly/GWMxv) #svpt #twitter #media #letterman #spacey</p>
+<p>The post <a rel="nofollow" href="/twitter/kevin-spacey-forklarar-twitter-for-dav/">Kevin Spacey förklarar Twitter för Dav&#8230;</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/kevin-spacey-forklarar-twitter-for-dav/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

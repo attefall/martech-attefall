@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tester Archives - attefall.digital</title>
+	<atom:link href="/tag/tester/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 07 Dec 2008 15:52:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>tester Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2008 års 10 bästa mobiler</title>
+		<link>/datorer-internet/prylar/2008-ars-10-basta-mobiler/</link>
+					<comments>/datorer-internet/prylar/2008-ars-10-basta-mobiler/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 07 Dec 2008 15:52:18 +0000</pubDate>
+				<category><![CDATA[Prylar]]></category>
+		<category><![CDATA[2008]]></category>
+		<category><![CDATA[mobiler]]></category>
+		<category><![CDATA[Recensioner]]></category>
+		<category><![CDATA[tester]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1213</guid>
+
+					<description><![CDATA[<p>Funderar du på att ge bort en mobiltelefon i julklapp? Här är några riktigt bra modeller att titta närmare på. IDGs Testcentret har valt ut 10 telefoner som fått toppbetyg av IDG:s proffstestare under 2008. Det är naturligtvis bara ett litet fåtal av alla mobiler som M3, PC för Alla, TechWorld, Computer Sweden med flera [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/datorer-internet/prylar/2008-ars-10-basta-mobiler/">2008 års 10 bästa mobiler</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/prylar/2008-ars-10-basta-mobiler/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

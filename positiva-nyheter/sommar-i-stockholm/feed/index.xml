@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Sommar i Stockholm!	</title>
+	<atom:link href="/positiva-nyheter/sommar-i-stockholm/feed/" rel="self" type="application/rss+xml" />
+	<link>/positiva-nyheter/sommar-i-stockholm/</link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 11 May 2006 03:49:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: FinaM		</title>
+		<link>/positiva-nyheter/sommar-i-stockholm/#comment-256</link>
+
+		<dc:creator><![CDATA[FinaM]]></dc:creator>
+		<pubDate>Thu, 11 May 2006 03:49:28 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/2006/05/06/sommar-i-stockholm/#comment-256</guid>
+
+					<description><![CDATA[Trivs du däruppe, var det rätt beslut?]]></description>
+			<content:encoded><![CDATA[<p>Trivs du däruppe, var det rätt beslut?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: FinaM		</title>
+		<link>/positiva-nyheter/sommar-i-stockholm/#comment-257</link>
+
+		<dc:creator><![CDATA[FinaM]]></dc:creator>
+		<pubDate>Thu, 11 May 2006 03:49:00 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/2006/05/06/sommar-i-stockholm/#comment-257</guid>
+
+					<description><![CDATA[Trivs du däruppe, var det rätt beslut?]]></description>
+			<content:encoded><![CDATA[<p>Trivs du däruppe, var det rätt beslut?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
