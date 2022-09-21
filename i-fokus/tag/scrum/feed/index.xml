@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Scrum Archives - attefall.digital</title>
+	<atom:link href="/tag/scrum/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 26 Feb 2010 15:04:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Scrum Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kanban and Scrum &#8211; making the most of both</title>
+		<link>/twitter/kanban-and-scrum-making-the/</link>
+					<comments>/twitter/kanban-and-scrum-making-the/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 26 Feb 2010 15:04:37 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[projektledning]]></category>
+		<category><![CDATA[Scrum]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/kanban-and-scrum-making-the/</guid>
+
+					<description><![CDATA[<p>Kanban and Scrum &#8211; making the most of both. Måste vara världens bästa bok om agil utveckling 🙂 http://bit.ly/9Fcwzs #kanban #scrum #agile</p>
+<p>The post <a rel="nofollow" href="/twitter/kanban-and-scrum-making-the/">Kanban and Scrum &#8211; making the most of both</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/kanban-and-scrum-making-the/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

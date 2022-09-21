@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gondolen Archives - attefall.digital</title>
+	<atom:link href="/tag/gondolen/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 04 Jun 2010 07:28:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>gondolen Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lunch at Gondolen</title>
+		<link>/foton/lunch-at-gondolen/</link>
+					<comments>/foton/lunch-at-gondolen/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 04 Jun 2010 07:28:06 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[gondolen]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<category><![CDATA[utsikt]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/lunch-at-gondolen/</guid>
+
+					<description><![CDATA[<p>The whole department went to lunch at Gondolen to say goodbye to a co-worker that was leaving us. Delicious... :-)</p>
+<p>The post <a rel="nofollow" href="/foton/lunch-at-gondolen/">Lunch at Gondolen</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/lunch-at-gondolen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

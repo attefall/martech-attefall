@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>strandvägen Archives - attefall.digital</title>
+	<atom:link href="/tag/strandvagen/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 10 Dec 2006 22:01:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>strandvägen Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vinter i Stockholm, Strandvägen</title>
+		<link>/foton/vinter-i-stockholm-strandvagen/</link>
+					<comments>/foton/vinter-i-stockholm-strandvagen/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2006 22:01:02 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<category><![CDATA[strandvägen]]></category>
+		<category><![CDATA[vinter]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/vinter-i-stockholm-strandvagen/</guid>
+
+					<description><![CDATA[<p>[klicka på bilden för större version]</p>
+<p>The post <a rel="nofollow" href="/foton/vinter-i-stockholm-strandvagen/">Vinter i Stockholm, Strandvägen</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/vinter-i-stockholm-strandvagen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

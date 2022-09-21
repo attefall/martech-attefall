@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nyår Archives - attefall.digital</title>
+	<atom:link href="/tag/nyar/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 31 Dec 2009 10:40:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>nyår Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gott Nytt Ã…r 09-10</title>
+		<link>/privat/gott-nytt-ar-09-10/</link>
+					<comments>/privat/gott-nytt-ar-09-10/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2009 10:40:51 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[2009]]></category>
+		<category><![CDATA[2010]]></category>
+		<category><![CDATA[firande]]></category>
+		<category><![CDATA[nyår]]></category>
+		<category><![CDATA[nyårsafton]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1850</guid>
+
+					<description><![CDATA[<p>Gott Nytt Ã…r 2009-2010 önskar jag eder alla!<br />
+Nu långpromenad i solen och den blixtrande vita snön på Djurgården innan firandet! </p>
+<p>The post <a rel="nofollow" href="/privat/gott-nytt-ar-09-10/">Gott Nytt Ã…r 09-10</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/gott-nytt-ar-09-10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Grattis på förlovningsdagen</title>
+		<link>/privat/grattis-pa-forlovningsdagen/</link>
+					<comments>/privat/grattis-pa-forlovningsdagen/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2008 11:52:00 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[förlovning]]></category>
+		<category><![CDATA[grattis]]></category>
+		<category><![CDATA[mamma]]></category>
+		<category><![CDATA[nyår]]></category>
+		<category><![CDATA[pappa]]></category>
+		<guid isPermaLink="false">https://attefall.se/privat/grattis-pa-forlovningsdagen/</guid>
+
+					<description><![CDATA[<p>GRATTIS på er 45e förlovningsdag Mamma &#38; Pappa! 🙂 .:. sönerna .:.</p>
+<p>The post <a rel="nofollow" href="/privat/grattis-pa-forlovningsdagen/">Grattis på förlovningsdagen</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/grattis-pa-forlovningsdagen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

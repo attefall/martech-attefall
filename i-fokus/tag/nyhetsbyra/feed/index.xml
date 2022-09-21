@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nyhetsbyrå Archives - attefall.digital</title>
+	<atom:link href="/tag/nyhetsbyra/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 23 May 2011 12:30:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>nyhetsbyrå Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nyheter &#8211; 19 maj, 2011</title>
+		<link>/lasvart/nyheter-19-maj-2011/</link>
+					<comments>/lasvart/nyheter-19-maj-2011/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 23 May 2011 12:30:00 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[aa]]></category>
+		<category><![CDATA[nyhetsbyrå]]></category>
+		<category><![CDATA[redesign]]></category>
+		<category><![CDATA[tt]]></category>
+		<category><![CDATA[tt gruppen]]></category>
+		<category><![CDATA[webb]]></category>
+		<guid isPermaLink="false">https://attefall.se/lasvart/nyheter-19-maj-2011/</guid>
+
+					<description><![CDATA[<p>Korta nyheter och l&#228;sv&#228;rda artiklar Nu g&#246;r vi om tt.se &#8211; g&#228;rna med er hj&#228;lp &#8211; publish. Ett inneh&#229;llsm&#246;te &#228;r avklarat och i dag g&#229;r vi in p&#229; uppbyggnad och struktur. Nyhetsbyr&#229;n TT:s hemsida ska g&#246;ras om och relanseras i h&#246;st. En v&#228;lbeh&#246;vlig uppdatering f&#229;r vi v&#228;l s&#228;ga.</p>
+<p>The post <a rel="nofollow" href="/lasvart/nyheter-19-maj-2011/">Nyheter &#8211; 19 maj, 2011</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/nyheter-19-maj-2011/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TT blir digitala till Almedalen</title>
+		<link>/positiva-nyheter/tt-blir-digitala-till-almedalen/</link>
+					<comments>/positiva-nyheter/tt-blir-digitala-till-almedalen/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 22 Apr 2010 20:25:47 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[journalistik]]></category>
+		<category><![CDATA[nyhetsbyrå]]></category>
+		<category><![CDATA[Retriever]]></category>
+		<category><![CDATA[sgb]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[tt]]></category>
+		<category><![CDATA[tt monitor]]></category>
+		<category><![CDATA[tt spektra]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2167</guid>
+
+					<description><![CDATA[<p>I TT:s digitala presscenter ska på ett och samma ställe finnas TT:s realtidsnyheter, pressmeddelanden, bilder, video, evenemangskalender, tryckta tidningar, sajter, Twitter och bloggar. </p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/tt-blir-digitala-till-almedalen/">TT blir digitala till Almedalen</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/tt-blir-digitala-till-almedalen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LeanKit Archives - attefall.digital</title>
+	<atom:link href="/tag/leankit/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 29 May 2011 12:30:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>LeanKit Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nyheter &#8211; 28 maj, 2011</title>
+		<link>/lasvart/nyheter-28-maj-2011/</link>
+					<comments>/lasvart/nyheter-28-maj-2011/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 29 May 2011 12:30:00 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[aa]]></category>
+		<category><![CDATA[AgileZen]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[Avega]]></category>
+		<category><![CDATA[Bambuser]]></category>
+		<category><![CDATA[bildbehandling]]></category>
+		<category><![CDATA[Calvin-Klein]]></category>
+		<category><![CDATA[CK]]></category>
+		<category><![CDATA[gmail]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[handla]]></category>
+		<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Iphone-app]]></category>
+		<category><![CDATA[jobbet]]></category>
+		<category><![CDATA[Kanban]]></category>
+		<category><![CDATA[klocka]]></category>
+		<category><![CDATA[läsvärt]]></category>
+		<category><![CDATA[Lean]]></category>
+		<category><![CDATA[LeanKit]]></category>
+		<category><![CDATA[livesändning]]></category>
+		<category><![CDATA[Magic-shutter]]></category>
+		<category><![CDATA[mail]]></category>
+		<category><![CDATA[projektledning]]></category>
+		<category><![CDATA[smb]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[VisualWIP]]></category>
+		<category><![CDATA[web-aspp]]></category>
+		<category><![CDATA[webbtjänst]]></category>
+		<guid isPermaLink="false">https://attefall.se/lasvart/nyheter-28-maj-2011/</guid>
+
+					<description><![CDATA[<p>Korta nyheter och l&#228;sv&#228;rda artiklar CALVIN KLEIN NEW BOLD,K2246126, Snygg klocka md vit urtavla och svart l&#228;derarmband fr&#229;n Calvin Klein. Magic shutter &#8211; h&#228;ftiga effekter med iPhones kamera &#8211; MacWorld Rolig app som busar med slutartiden. LeanKit Kanban &#8211; Lean Process Management Kanban is a system for visualizing work, making it flow, reducing waste, and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/lasvart/nyheter-28-maj-2011/">Nyheter &#8211; 28 maj, 2011</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/nyheter-28-maj-2011/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

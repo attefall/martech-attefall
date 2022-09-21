@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bröllopsdag Archives - attefall.digital</title>
+	<atom:link href="/tag/brollopsdag/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 05 Feb 2013 18:58:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>bröllopsdag Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gifta i 47 år &#8211; grattis mamma och pappa</title>
+		<link>/blogg100/gifta-i-47-ar-grattis-mamma-och-pappa/</link>
+					<comments>/blogg100/gifta-i-47-ar-grattis-mamma-och-pappa/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 05 Feb 2013 18:58:28 +0000</pubDate>
+				<category><![CDATA[#blogg100]]></category>
+		<category><![CDATA[Privat]]></category>
+		<category><![CDATA[bröllop]]></category>
+		<category><![CDATA[bröllopsdag]]></category>
+		<category><![CDATA[mamma och pappa]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=14781</guid>
+
+					<description><![CDATA[<p>Du läste rätt - mina förädrar firar sin 47e (!) brölloppsdag idag! </p>
+<p>The post <a rel="nofollow" href="/blogg100/gifta-i-47-ar-grattis-mamma-och-pappa/">Gifta i 47 år &#8211; grattis mamma och pappa</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blogg100/gifta-i-47-ar-grattis-mamma-och-pappa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

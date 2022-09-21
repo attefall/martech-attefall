@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Therese Alshammar Archives - attefall.digital</title>
+	<atom:link href="/tag/therese-alshammar/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sat, 17 Oct 2009 12:29:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Therese Alshammar Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Therese Alshammar &#8211; världsrekord på 100 meter medley</title>
+		<link>/positiva-nyheter/therese-alshammar-varldsrekord-pa-100-meter-medley/</link>
+					<comments>/positiva-nyheter/therese-alshammar-varldsrekord-pa-100-meter-medley/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2009 12:29:45 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[medley]]></category>
+		<category><![CDATA[simning]]></category>
+		<category><![CDATA[Therese Alshammar]]></category>
+		<category><![CDATA[världsrekord]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1625</guid>
+
+					<description><![CDATA[<p><a href="http://sv.wikipedia.org/wiki/Therese_Alshammar" title="Lä mer om Therese Alshammar" />Therese Alshammar</a> satte världsrekord på 100 meter medley på lördag. Svenskan överraskande alla, inklusive sig själv, genom att sätta handen i kaklet på tiden 58,51 under ett försökslopp. </p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/therese-alshammar-varldsrekord-pa-100-meter-medley/">Therese Alshammar &#8211; världsrekord på 100 meter medley</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/therese-alshammar-varldsrekord-pa-100-meter-medley/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

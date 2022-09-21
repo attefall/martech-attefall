@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bank Archives - attefall.digital</title>
+	<atom:link href="/tag/bank/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 28 May 2010 11:35:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>bank Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nordeas iPhone-app</title>
+		<link>/datorer-internet/iphone-datorer-internet/nordeas-iphone-app/</link>
+					<comments>/datorer-internet/iphone-datorer-internet/nordeas-iphone-app/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 28 May 2010 11:35:24 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[nordea]]></category>
+		<category><![CDATA[Program]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2225</guid>
+
+					<description><![CDATA[<p>Kunder hos Nordea kan nu glädjas över att det blivit enklare att göra bankärenden via iPhone. </p>
+<p>The post <a rel="nofollow" href="/datorer-internet/iphone-datorer-internet/nordeas-iphone-app/">Nordeas iPhone-app</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/iphone-datorer-internet/nordeas-iphone-app/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>8 sätt att ta betalt på nätet</title>
+		<link>/datorer-internet/8-satt-att-ta-betalt-pa-nat/</link>
+					<comments>/datorer-internet/8-satt-att-ta-betalt-pa-nat/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2010 11:33:04 +0000</pubDate>
+				<category><![CDATA[Datorer/Internet]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[betalning]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[pengar]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/8-satt-att-ta-betalt-pa-nat/</guid>
+
+					<description><![CDATA[<p>8 sätt att ta betalt på nätet. En betallösning som verkar enkel, snabb &#38; trygg ökar dina chanser till hög försäljning. http://bit.ly/akCrkv</p>
+<p>The post <a rel="nofollow" href="/datorer-internet/8-satt-att-ta-betalt-pa-nat/">8 sätt att ta betalt på nätet</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/8-satt-att-ta-betalt-pa-nat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Banken i mobilen &#8211; tekniken finns</title>
+		<link>/datorer-internet/iphone-datorer-internet/banken-i-mobilen-tekniken-fi/</link>
+					<comments>/datorer-internet/iphone-datorer-internet/banken-i-mobilen-tekniken-fi/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 12 Feb 2010 09:35:50 +0000</pubDate>
+				<category><![CDATA[iPhone]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[bank]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[pengar]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/banken-i-mobilen-tekniken-fi/</guid>
+
+					<description><![CDATA[<p>Banken i mobilen &#8211; Tekniken finns. &#8220;Det är viktigt att skapa banktjänster som passar just mobilen.&#8221; http://bit.ly/bt4ONZ #mobil #bank</p>
+<p>The post <a rel="nofollow" href="/datorer-internet/iphone-datorer-internet/banken-i-mobilen-tekniken-fi/">Banken i mobilen &#8211; tekniken finns</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/iphone-datorer-internet/banken-i-mobilen-tekniken-fi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

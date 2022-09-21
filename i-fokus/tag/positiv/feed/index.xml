@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>positiv Archives - attefall.digital</title>
+	<atom:link href="/tag/positiv/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 06 Dec 2009 17:02:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>positiv Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>En historia om val i livet</title>
+		<link>/privat/en-historia-om-val-i-livet/</link>
+					<comments>/privat/en-historia-om-val-i-livet/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 06 Dec 2009 17:02:29 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[hav]]></category>
+		<category><![CDATA[historia]]></category>
+		<category><![CDATA[positiv]]></category>
+		<category><![CDATA[stråhatt]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1786</guid>
+
+					<description><![CDATA[<p>Klockan är 8 på morgonen. En man sitter i en solstol på stranden, han har en stråhatt över ansiktet och ser ut att sova. I vattenbrynet ligger en liten fiskebåt och guppar. Då kommer det förbi en turist. Eftersom han är just turist kunde han inte låta bli att fråga den slumrande mannen vad han har för yrke. </p>
+<p>The post <a rel="nofollow" href="/privat/en-historia-om-val-i-livet/">En historia om val i livet</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/en-historia-om-val-i-livet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

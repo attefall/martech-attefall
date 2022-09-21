@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Responsive Images Archives - attefall.digital</title>
+	<atom:link href="/tag/responsive-images/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 25 Feb 2015 15:31:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Responsive Images Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Content Marketing Tools, Facebook Ad Manager App, Responsive Images for WordPress…</title>
+		<link>/lasvart/content-marketing-tools-facebook-ad-manager-app-responsive-images-for-wordpress/</link>
+					<comments>/lasvart/content-marketing-tools-facebook-ad-manager-app-responsive-images-for-wordpress/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 25 Feb 2015 15:31:05 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[Ad Manager]]></category>
+		<category><![CDATA[app]]></category>
+		<category><![CDATA[Content Marketing]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[Responsive Images]]></category>
+		<category><![CDATA[rwd]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16215</guid>
+
+					<description><![CDATA[<p>* Facebook Launches an Ad Manager App for iOS<br />
+* RICG Responsive Images For WordPress<br />
+* Recite.com – Create beautiful visual quotes as images<br />
+* PhotoSwipe: JavaScript Image Gallery<br />
+* Top 100+ Content Marketing Tools<br />
+* How to Find and Remove Fake Followers from Twitter and Instagram<br />
+* Sphero 2.0 – den radiostyrda bollen!<br />
+* Studenter i hela världen får gratis Office 365<br />
+* 3 konkreta söktips för dig som vill skaffa mer kommersiell trafik<br />
+* Pandora: 0,001 dollar är en riktigt schysst ersättning – Veckans Affärer<br />
+* Betalar du för mycket? Så här maximerar du din digitala marknadsföring – billigare</p>
+<p>The post <a rel="nofollow" href="/lasvart/content-marketing-tools-facebook-ad-manager-app-responsive-images-for-wordpress/">Content Marketing Tools, Facebook Ad Manager App, Responsive Images for WordPress…</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/content-marketing-tools-facebook-ad-manager-app-responsive-images-for-wordpress/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

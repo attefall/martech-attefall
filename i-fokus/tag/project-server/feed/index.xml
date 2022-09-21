@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Project Server Archives - attefall.digital</title>
+	<atom:link href="/tag/project-server/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 10 Dec 2009 16:06:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Project Server Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MS Project Server &#8211; Projektmetodik och Agile</title>
+		<link>/twitter/ms-project-server-projektmet/</link>
+					<comments>/twitter/ms-project-server-projektmet/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2009 16:06:49 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[agile]]></category>
+		<category><![CDATA[metodik]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[processer]]></category>
+		<category><![CDATA[Project Server]]></category>
+		<category><![CDATA[projektledning]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/ms-project-server-projektmet/</guid>
+
+					<description><![CDATA[<p>MS Project Server &#8211; Projektmetodik och Agile i ett eller måste ännu ett verktyg till? #agile #projektledning #projekt #metodik #processer</p>
+<p>The post <a rel="nofollow" href="/twitter/ms-project-server-projektmet/">MS Project Server &#8211; Projektmetodik och Agile</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/ms-project-server-projektmet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Project Server &#8211; vad har du för erfarenheter?</title>
+		<link>/twitter/microsoft-project-server-vad-har-du-fa/</link>
+					<comments>/twitter/microsoft-project-server-vad-har-du-fa/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 15 Jul 2009 12:29:52 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[Project Server]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/microsoft-project-server-vad-har-du-fa/</guid>
+
+					<description><![CDATA[<p>Microsoft Project Server &#8211; vad har du för erfarenheter? #svpt #it #projektledning</p>
+<p>The post <a rel="nofollow" href="/twitter/microsoft-project-server-vad-har-du-fa/">Microsoft Project Server &#8211; vad har du för erfarenheter?</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/microsoft-project-server-vad-har-du-fa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

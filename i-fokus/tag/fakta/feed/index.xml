@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fakta Archives - attefall.digital</title>
+	<atom:link href="/tag/fakta/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 15 Feb 2010 16:06:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>fakta Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Internet hotar journalistiken</title>
+		<link>/twitter/internet-hotar-journalistiken/</link>
+					<comments>/twitter/internet-hotar-journalistiken/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 15 Feb 2010 16:06:20 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[fakta]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[journalistik]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/internet-hotar-journalistiken/</guid>
+
+					<description><![CDATA[<p>Internet hotar journalistiken &#8211; Journalister återger information de hittar på webben utan att kontrollera fakta. http://bit.ly/bJGYkP #web</p>
+<p>The post <a rel="nofollow" href="/twitter/internet-hotar-journalistiken/">Internet hotar journalistiken</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/internet-hotar-journalistiken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

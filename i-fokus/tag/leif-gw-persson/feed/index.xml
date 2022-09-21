@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Leif GW Persson Archives - attefall.digital</title>
+	<atom:link href="/tag/leif-gw-persson/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 03 Nov 2011 18:11:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Leif GW Persson Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Den döende detektiven av Leif Gw Persson</title>
+		<link>/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson-2/</link>
+					<comments>/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 03 Nov 2011 18:11:53 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[deckare]]></category>
+		<category><![CDATA[Leif GW Persson]]></category>
+		<category><![CDATA[recension]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=13690</guid>
+
+					<description><![CDATA[<p>En gripande berättelse i GWs anda som ställer huvudpersonen ett stort moraliskt dilemma... </p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson-2/">Den döende detektiven av Leif Gw Persson</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Den döende detektiven av Leif GW Persson</title>
+		<link>/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson/</link>
+					<comments>/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2011 12:04:15 +0000</pubDate>
+				<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[deckare]]></category>
+		<category><![CDATA[Leif GW Persson]]></category>
+		<category><![CDATA[recension]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=13658</guid>
+
+					<description><![CDATA[<p>Samtidigt som hans gamla liv plötsligt försöker gripa tag i honom på nytt. Hans egen läkare berättar en hemsk historia om ett tjugofem år gammalt ouppklarat mord på en nioårig flicka. Prima virke för den som kan se runt hörn men knappast något för Johansson i det skick som han numera befinner sig i. </p>
+<p>The post <a rel="nofollow" href="/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson/">Den döende detektiven av Leif GW Persson</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/bocker/den-doende-detektiven-av-leif-gw-persson/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

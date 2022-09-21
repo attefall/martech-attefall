@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>svartvadet Archives - attefall.digital</title>
+	<atom:link href="/tag/svartvadet/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 01 Dec 2009 22:57:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>svartvadet Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Foppas och Näslunds sköna uppvisning</title>
+		<link>/positiva-nyheter/foppas-och-naslunds-skona-uppvisning/</link>
+					<comments>/positiva-nyheter/foppas-och-naslunds-skona-uppvisning/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2009 22:57:26 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[foppa]]></category>
+		<category><![CDATA[ishockey]]></category>
+		<category><![CDATA[näslund. modo]]></category>
+		<category><![CDATA[svartvadet]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1765</guid>
+
+					<description><![CDATA[<p>Här är Foppas och Näslunds nya målshow: Först kvitterade Per Svartvadet till 2â€“2 med två sekunder kvar att spela. Sedan sänkte Peter Forsberg Skellefteå i sudden death med ett drömmål â€“ assisterad av radarpartnern Markus Näslund. </p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/foppas-och-naslunds-skona-uppvisning/">Foppas och Näslunds sköna uppvisning</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/foppas-och-naslunds-skona-uppvisning/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>affärer Archives - attefall.digital</title>
+	<atom:link href="/tag/affarer/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 16 Jun 2010 08:44:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>affärer Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ming: Sluta mäta verksamheten</title>
+		<link>/i-fokus/ming-sluta-mata-verksamheten/</link>
+					<comments>/i-fokus/ming-sluta-mata-verksamheten/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2010 08:44:37 +0000</pubDate>
+				<category><![CDATA[I fokus]]></category>
+		<category><![CDATA[affärer]]></category>
+		<category><![CDATA[ming]]></category>
+		<category><![CDATA[organisation]]></category>
+		<category><![CDATA[verksamhet]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2253</guid>
+
+					<description><![CDATA[<p>Stäng av datorerna. Boka av alla formella möten. Sluta skriva protokoll. Det är några av tipsen från konsultföretaget <a href="http://www.ming.se/" title="Läs mer om Ming">Ming</a> som hävdar att bara 25 procent av arbetstiden i en organisation ägnas åt kärnverksamheten. </p>
+<p>The post <a rel="nofollow" href="/i-fokus/ming-sluta-mata-verksamheten/">Ming: Sluta mäta verksamheten</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/i-fokus/ming-sluta-mata-verksamheten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Affärer och IT-projekt i andra kulturer</title>
+		<link>/datorer-internet/affarer-och-it-projekt-i-andra-kulturer/</link>
+					<comments>/datorer-internet/affarer-och-it-projekt-i-andra-kulturer/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2009 15:28:21 +0000</pubDate>
+				<category><![CDATA[Datorer/Internet]]></category>
+		<category><![CDATA[affärer]]></category>
+		<category><![CDATA[brasilien]]></category>
+		<category><![CDATA[indien]]></category>
+		<category><![CDATA[it]]></category>
+		<category><![CDATA[kina]]></category>
+		<category><![CDATA[kulturer]]></category>
+		<category><![CDATA[projekt]]></category>
+		<category><![CDATA[ryssland]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1812</guid>
+
+					<description><![CDATA[<p>Lägg inte för mycket kraft på att förstå den andra kulturen. Sätt dig hellre in i din egen - och tona kanske ner den. Det är rådet från Ericsson, ett företag med stor rutin från utlandsarbete. </p>
+<p>The post <a rel="nofollow" href="/datorer-internet/affarer-och-it-projekt-i-andra-kulturer/">Affärer och IT-projekt i andra kulturer</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/affarer-och-it-projekt-i-andra-kulturer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

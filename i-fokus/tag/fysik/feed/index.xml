@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fysik Archives - attefall.digital</title>
+	<atom:link href="/tag/fysik/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 06 Oct 2009 07:00:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>fysik Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nobelpriset 2009 i fysik till Charlies Kao, Willard Boyle och George Smith</title>
+		<link>/positiva-nyheter/nobelpriset-2009-i-fysik-till-charlies-kao-willard-boyle-och-george-smith/</link>
+					<comments>/positiva-nyheter/nobelpriset-2009-i-fysik-till-charlies-kao-willard-boyle-och-george-smith/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 06 Oct 2009 07:00:54 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[2009]]></category>
+		<category><![CDATA[fysik]]></category>
+		<category><![CDATA[nobelpriset]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1559</guid>
+
+					<description><![CDATA[<p>Charles Kao får halva priset för forskning om &#8220;ljustransmission i fibrer för optisk kommunikation&#8221; &#8211; som används inom telekommunikation. Den andra halvan delas av Willard Boyle och George Smith &#8211; för &#8220;uppfinningen av inledande halvledarkrets&#8221;. Â» Läs mer på svd.se Â» Läs mer på dn.se Â» Läs mer på computersweden.idg.se</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/nobelpriset-2009-i-fysik-till-charlies-kao-willard-boyle-och-george-smith/">Nobelpriset 2009 i fysik till Charlies Kao, Willard Boyle och George Smith</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/nobelpriset-2009-i-fysik-till-charlies-kao-willard-boyle-och-george-smith/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

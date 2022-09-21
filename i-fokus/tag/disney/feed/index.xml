@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>disney Archives - attefall.digital</title>
+	<atom:link href="/tag/disney/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 08 Oct 2007 10:36:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>disney Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kamera i samarbete med Disney-ABC</title>
+		<link>/positiva-nyheter/kamera-i-samarbete-med-disney-abc/</link>
+					<comments>/positiva-nyheter/kamera-i-samarbete-med-disney-abc/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 08 Oct 2007 10:36:01 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[abc]]></category>
+		<category><![CDATA[disney]]></category>
+		<category><![CDATA[kamera]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[nyheter]]></category>
+		<guid isPermaLink="false">https://attefall.se/positiva-nyheter/kamera-i-samarbete-med-disney-abc/</guid>
+
+					<description><![CDATA[<p>[bild från e24.se] Svenska Kamera ska sälja den amerikanska medieÂ­jätten Disney-ABC:s nyhetsinslag till mobil- och internetanvändare världen över. Med hjälp av ABC:s starka varumärke räknar Kamera bland annat med att kunna bryta sig in på den latinÂ­amerikanska marknaden. [Besök Kamera] [Via E24.se]</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/kamera-i-samarbete-med-disney-abc/">Kamera i samarbete med Disney-ABC</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/kamera-i-samarbete-med-disney-abc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

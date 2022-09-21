@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rockmelt Archives - attefall.digital</title>
+	<atom:link href="/tag/rockmelt/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 10 Nov 2010 12:34:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>rockmelt Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>RockMelt &#8211; webbläsaren för Facebook och Twitter</title>
+		<link>/datorer-internet/internet-datorer-internet/rockmelt-webblasaren-for-facebook-och-twitter/</link>
+					<comments>/datorer-internet/internet-datorer-internet/rockmelt-webblasaren-for-facebook-och-twitter/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 10 Nov 2010 12:34:59 +0000</pubDate>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Program]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[rockmelt]]></category>
+		<category><![CDATA[sociala medier]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[webbläsare]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2407</guid>
+
+					<description><![CDATA[<p>Rockmelt är en social webbläsare. Tanken är att den ska göra det lättare att dela med dig av bilder och tips direkt. Dessutom är den uppkopplad mot Facebook och Twitter så att du kan chatta direkt med dina vänner utan att gå till sajten. </p>
+<p>The post <a rel="nofollow" href="/datorer-internet/internet-datorer-internet/rockmelt-webblasaren-for-facebook-och-twitter/">RockMelt &#8211; webbläsaren för Facebook och Twitter</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/internet-datorer-internet/rockmelt-webblasaren-for-facebook-och-twitter/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

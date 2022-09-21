@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Instagram &#8211; Rock n roll	</title>
+	<atom:link href="/foton/instagram-rock-n-roll/feed/" rel="self" type="application/rss+xml" />
+	<link>/foton/instagram-rock-n-roll/</link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 19 Jun 2013 10:55:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: Magnus Attefall		</title>
+		<link>/foton/instagram-rock-n-roll/#comment-654</link>
+
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2013 10:55:00 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/?p=15100#comment-654</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/foton/instagram-rock-n-roll/#comment-653&quot;&gt;Christina Sandström&lt;/a&gt;.
+
+Näää - hen är snygg! :-)]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/foton/instagram-rock-n-roll/#comment-653">Christina Sandström</a>.</p>
+<p>Näää &#8211; hen är snygg! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Christina Sandström		</title>
+		<link>/foton/instagram-rock-n-roll/#comment-653</link>
+
+		<dc:creator><![CDATA[Christina Sandström]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2013 07:26:00 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/?p=15100#comment-653</guid>
+
+					<description><![CDATA[Lite ful frisyr på det trollet...]]></description>
+			<content:encoded><![CDATA[<p>Lite ful frisyr på det trollet&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

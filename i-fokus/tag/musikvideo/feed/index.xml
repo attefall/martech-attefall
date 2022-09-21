@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>musikvideo Archives - attefall.digital</title>
+	<atom:link href="/tag/musikvideo/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 30 Nov 2008 09:58:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>musikvideo Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Magnus Uggla &#8211; Vild och skild</title>
+		<link>/privat/magnus-uggla-vild-och-skild/</link>
+					<comments>/privat/magnus-uggla-vild-och-skild/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 30 Nov 2008 09:58:06 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[magnus uggla]]></category>
+		<category><![CDATA[musik]]></category>
+		<category><![CDATA[musikvideo]]></category>
+		<category><![CDATA[skild]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[vild]]></category>
+		<category><![CDATA[vild och skild]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1131</guid>
+
+					<description><![CDATA[<p>Magnus Uggla sjunger till alla vilda och skilda&#8230; Världens billigaste video? undrar herr Uggla själv. 🙂 &#187; Via Magnus Ugglas blogg Andra bloggar om magnus uggla, musikvideo, musik.</p>
+<p>The post <a rel="nofollow" href="/privat/magnus-uggla-vild-och-skild/">Magnus Uggla &#8211; Vild och skild</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/magnus-uggla-vild-och-skild/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Amatörer sjunger på YouTube</title>
+		<link>/privat/amatorer-sjunger-pa-youtube/</link>
+					<comments>/privat/amatorer-sjunger-pa-youtube/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 06 Oct 2007 10:43:48 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[amatör]]></category>
+		<category><![CDATA[musik]]></category>
+		<category><![CDATA[musikvideo]]></category>
+		<category><![CDATA[sjunga]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[youtube]]></category>
+		<guid isPermaLink="false">https://attefall.se/privat/amatorer-sjunger-pa-youtube/</guid>
+
+					<description><![CDATA[<p>Så härligt att se vad människor runt om i världen kan prestera i olika sammanhang. Här nedan är det två tjejer som mimar till Spice Girls och gör det på ett riktigt bra och roligt sätt. Vilken är din favorit? Lämna gärna en kommentar!</p>
+<p>The post <a rel="nofollow" href="/privat/amatorer-sjunger-pa-youtube/">Amatörer sjunger på YouTube</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/amatorer-sjunger-pa-youtube/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kreativ Archives - attefall.digital</title>
+	<atom:link href="/tag/kreativ/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 02 Apr 2010 12:32:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>kreativ Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>70 kreativa CV:n</title>
+		<link>/privat/70-kreativa-cvn/</link>
+					<comments>/privat/70-kreativa-cvn/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 02 Apr 2010 12:32:35 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[cv]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[jobb]]></category>
+		<category><![CDATA[kreativ]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2080</guid>
+
+					<description><![CDATA[<p>Här är sajten för dig som letar nytt jobb och vill skapa en riktigt bra CV. Summan av kardemumman är en man kanske hört förut: försök tänka utanför boxen för att sticka ut. Och det räcker inte med ett litet större papper. </p>
+<p>The post <a rel="nofollow" href="/privat/70-kreativa-cvn/">70 kreativa CV:n</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/70-kreativa-cvn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

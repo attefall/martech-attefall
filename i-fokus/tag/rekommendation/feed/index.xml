@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rekommendation Archives - attefall.digital</title>
+	<atom:link href="/tag/rekommendation/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 17 Jul 2009 09:18:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>rekommendation Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Twitter-rekommendationer &#8211; @spektrablogg&#8230;</title>
+		<link>/twitter/twitter-rekommendationer-spektrablogg/</link>
+					<comments>/twitter/twitter-rekommendationer-spektrablogg/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2009 09:18:46 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[rekommendation]]></category>
+		<category><![CDATA[Spektrabloggen]]></category>
+		<category><![CDATA[tt spektra]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/twitter-rekommendationer-spektrablogg/</guid>
+
+					<description><![CDATA[<p>Twitter-rekommendationer &#8211; @spektrabloggen och @andreaskrohn #followfriday #FF #svpt #journalistik #media #web #mashup</p>
+<p>The post <a rel="nofollow" href="/twitter/twitter-rekommendationer-spektrablogg/">Twitter-rekommendationer &#8211; @spektrablogg&#8230;</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/twitter-rekommendationer-spektrablogg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

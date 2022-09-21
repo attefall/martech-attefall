@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>magnus Archives - attefall.digital</title>
+	<atom:link href="/tag/magnus/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 04 Jul 2010 13:49:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>magnus Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cooling down &#8211; summer of 2010</title>
+		<link>/foton/cooling-down/</link>
+					<comments>/foton/cooling-down/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 04 Jul 2010 13:49:27 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[Privat]]></category>
+		<category><![CDATA[2010]]></category>
+		<category><![CDATA[Bilder]]></category>
+		<category><![CDATA[magnus]]></category>
+		<category><![CDATA[porträtt]]></category>
+		<category><![CDATA[sommar]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/cooling-down/</guid>
+
+					<description><![CDATA[<p>I'm cooling down after have been in the sun - almoust 30 degrees here in Stockholm. Nice! :-)</p>
+<p>The post <a rel="nofollow" href="/foton/cooling-down/">Cooling down &#8211; summer of 2010</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/cooling-down/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>EFIT &#8211; Ett foto i timmen &#8211; 050914</title>
+		<link>/foton/efit-ett-foto-i-timmen-050914/</link>
+					<comments>/foton/efit-ett-foto-i-timmen-050914/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 15 Sep 2005 06:03:19 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[efit]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[göteborg]]></category>
+		<category><![CDATA[magnus]]></category>
+		<guid isPermaLink="false">https://attefall.se/2005/09/15/efit-ett-foto-i-timmen-050914/</guid>
+
+					<description><![CDATA[<p>EFIT - Ett foto i timmen. Onsdagen den 14e september 2005.</p>
+<p>The post <a rel="nofollow" href="/foton/efit-ett-foto-i-timmen-050914/">EFIT &#8211; Ett foto i timmen &#8211; 050914</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/efit-ett-foto-i-timmen-050914/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fred Archives - attefall.digital</title>
+	<atom:link href="/tag/fred/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 09 Oct 2009 09:06:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>fred Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nobels fredspris till Barack Obama</title>
+		<link>/positiva-nyheter/nobels-fredspris-till-barack-obama/</link>
+					<comments>/positiva-nyheter/nobels-fredspris-till-barack-obama/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 09 Oct 2009 09:06:18 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[2009]]></category>
+		<category><![CDATA[barack obama]]></category>
+		<category><![CDATA[fred]]></category>
+		<category><![CDATA[nobelpriset]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1588</guid>
+
+					<description><![CDATA[<p>Nobels fredspris 2009 går till USA:s president Barack Obama. Klockan 11 tillkännagavs beslutet av det norska Nobelinstitutet i Oslo. (via svd.se) Â» Läs mer på svd.se Â» Läs mer på dn.se</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/nobels-fredspris-till-barack-obama/">Nobels fredspris till Barack Obama</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/nobels-fredspris-till-barack-obama/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

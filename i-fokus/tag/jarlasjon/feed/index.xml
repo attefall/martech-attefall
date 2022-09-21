@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Järlasjön Archives - attefall.digital</title>
+	<atom:link href="/tag/jarlasjon/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 14 Apr 2014 16:58:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Järlasjön Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Järla lake &#8211; Project 365 / 104</title>
+		<link>/foton/jarla-lake-project-365-104/</link>
+					<comments>/foton/jarla-lake-project-365-104/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 14 Apr 2014 16:58:24 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[Järlasjön]]></category>
+		<category><![CDATA[project365]]></category>
+		<category><![CDATA[projekt365]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=15650</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/foton/jarla-lake-project-365-104/">Järla lake &#8211; Project 365 / 104</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/jarla-lake-project-365-104/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

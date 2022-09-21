@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pandami Archives - attefall.digital</title>
+	<atom:link href="/tag/pandami/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 26 Mar 2020 18:37:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>pandami Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Coronavirus &#8211; Covid-19 in Sweden</title>
+		<link>/privat/coronavirus-covid-19-in-sweden/</link>
+					<comments>/privat/coronavirus-covid-19-in-sweden/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2020 18:37:06 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[pandami]]></category>
+		<category><![CDATA[pandemic]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=17755</guid>
+
+					<description><![CDATA[<p>Information and placeholder for the future about the Coronavirus, Covid-19, in Sweden 2020.</p>
+<p>The post <a rel="nofollow" href="/privat/coronavirus-covid-19-in-sweden/">Coronavirus &#8211; Covid-19 in Sweden</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/coronavirus-covid-19-in-sweden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

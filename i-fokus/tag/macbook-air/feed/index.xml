@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MacBook Air Archives - attefall.digital</title>
+	<atom:link href="/tag/macbook-air/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 26 Mar 2015 15:31:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>MacBook Air Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Inget Windows 7 på nya Macbook Pro och Air</title>
+		<link>/lasvart/inget-windows-7-pa-nya-macbook-pro-och-air/</link>
+					<comments>/lasvart/inget-windows-7-pa-nya-macbook-pro-och-air/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 26 Mar 2015 15:31:42 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[MacBook]]></category>
+		<category><![CDATA[MacBook Air]]></category>
+		<category><![CDATA[MacBook Pro]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16337</guid>
+
+					<description><![CDATA[<p>Inget Windows 7 på nya Macbook Pro och Air</p>
+<p>The post <a rel="nofollow" href="/lasvart/inget-windows-7-pa-nya-macbook-pro-och-air/">Inget Windows 7 på nya Macbook Pro och Air</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/inget-windows-7-pa-nya-macbook-pro-och-air/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

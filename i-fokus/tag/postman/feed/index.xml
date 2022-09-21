@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Postman Archives - attefall.digital</title>
+	<atom:link href="/tag/postman/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 20 Nov 2020 09:54:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Postman Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Designing For Attention, Visual Communication…</title>
+		<link>/lasvart/designing-for-attention-visual-communication/</link>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2020 09:54:18 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[e-commerce]]></category>
+		<category><![CDATA[google analytics]]></category>
+		<category><![CDATA[Icons]]></category>
+		<category><![CDATA[Lighthouse]]></category>
+		<category><![CDATA[Postman]]></category>
+		<category><![CDATA[Sanity]]></category>
+		<category><![CDATA[ui]]></category>
+		<category><![CDATA[ux]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=18359</guid>
+
+					<description><![CDATA[<p>The Principles Of Visual Communication » Best Practices For E-Commerce UI Design » Use Icons In Your Mobile Apps...</p>
+<p>The post <a rel="nofollow" href="/lasvart/designing-for-attention-visual-communication/">Designing For Attention, Visual Communication…</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

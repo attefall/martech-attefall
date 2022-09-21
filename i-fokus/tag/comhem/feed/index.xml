@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comhem Archives - attefall.digital</title>
+	<atom:link href="/tag/comhem/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sat, 27 Feb 2010 10:33:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>comhem Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Comhem och mobiltelefoner</title>
+		<link>/twitter/comhem-och-mobiltelefoner-kol/</link>
+					<comments>/twitter/comhem-och-mobiltelefoner-kol/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 27 Feb 2010 10:33:40 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[comhem]]></category>
+		<category><![CDATA[driftinfo]]></category>
+		<category><![CDATA[mobiltelefon]]></category>
+		<category><![CDATA[support]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/comhem-och-mobiltelefoner-kol/</guid>
+
+					<description><![CDATA[<p>Comhem och mobiltelefoner. Kollar driftinformationen på Comhems sajt med min iPhone. Total failure! http://yfrog.com/aul7dxj #comhem #fail</p>
+<p>The post <a rel="nofollow" href="/twitter/comhem-och-mobiltelefoner-kol/">Comhem och mobiltelefoner</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/comhem-och-mobiltelefoner-kol/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Comhems kundtjänst</title>
+		<link>/twitter/comhems-kundtjanst-ringer-co/</link>
+					<comments>/twitter/comhems-kundtjanst-ringer-co/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 27 Feb 2010 10:30:51 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[comhem]]></category>
+		<category><![CDATA[support]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/comhems-kundtjanst-ringer-co/</guid>
+
+					<description><![CDATA[<p>Comhems kundtjänst. Ringer Comhems support, pratar med en trevlig tjej, ska lämna synpukter efter samtalet men det fungerar inte! #comhem</p>
+<p>The post <a rel="nofollow" href="/twitter/comhems-kundtjanst-ringer-co/">Comhems kundtjänst</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/comhems-kundtjanst-ringer-co/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

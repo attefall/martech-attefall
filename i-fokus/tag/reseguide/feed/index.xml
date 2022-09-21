@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>reseguide Archives - attefall.digital</title>
+	<atom:link href="/tag/reseguide/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 03 Oct 2007 14:30:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>reseguide Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lonely Planet blir gratis på nätet</title>
+		<link>/positiva-nyheter/lonely-planet-blir-gratis-pa-natet/</link>
+					<comments>/positiva-nyheter/lonely-planet-blir-gratis-pa-natet/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2007 14:30:45 +0000</pubDate>
+				<category><![CDATA[Övrigt]]></category>
+		<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[bbc]]></category>
+		<category><![CDATA[Böcker]]></category>
+		<category><![CDATA[guide]]></category>
+		<category><![CDATA[lonely planet]]></category>
+		<category><![CDATA[reseböcker]]></category>
+		<category><![CDATA[reseguide]]></category>
+		<category><![CDATA[resor]]></category>
+		<guid isPermaLink="false">https://attefall.se/positiva-nyheter/lonely-planet-blir-gratis-pa-natet/</guid>
+
+					<description><![CDATA[<p>[bild från lonelyplanet.com] Snart kan du ta del av guideböckerna Lonely Planets resetips på nätet &#8211; och alldeles gratis. Den brittiska tv-kanalen BBC har köpt 75 procent av resebokförlaget och har bestämt sig för att göra innehållet i förlagets drygt 500 reseböcker tillgängligt på nätet. Lonely Planets egna sajt har i dag 4,4 miljoner unik [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/lonely-planet-blir-gratis-pa-natet/">Lonely Planet blir gratis på nätet</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/lonely-planet-blir-gratis-pa-natet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

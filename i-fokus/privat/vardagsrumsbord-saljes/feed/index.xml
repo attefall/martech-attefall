@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Vardagsrumsbord säljes	</title>
+	<atom:link href="/privat/vardagsrumsbord-saljes/feed/" rel="self" type="application/rss+xml" />
+	<link>/privat/vardagsrumsbord-saljes/</link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 03 Feb 2006 14:06:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: SANDRA		</title>
+		<link>/privat/vardagsrumsbord-saljes/#comment-246</link>
+
+		<dc:creator><![CDATA[SANDRA]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2006 14:06:39 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/2006/02/03/vardagsrumsbord-saljes/#comment-246</guid>
+
+					<description><![CDATA[Nice...ska fundera.
+Vi ska byta.]]></description>
+			<content:encoded><![CDATA[<p>Nice&#8230;ska fundera.<br />
+Vi ska byta.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: SANDRA		</title>
+		<link>/privat/vardagsrumsbord-saljes/#comment-247</link>
+
+		<dc:creator><![CDATA[SANDRA]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2006 14:06:00 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/2006/02/03/vardagsrumsbord-saljes/#comment-247</guid>
+
+					<description><![CDATA[Nice...ska fundera.
+Vi ska byta.]]></description>
+			<content:encoded><![CDATA[<p>Nice&#8230;ska fundera.<br />
+Vi ska byta.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

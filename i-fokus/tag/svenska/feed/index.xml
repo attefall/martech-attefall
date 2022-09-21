@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>svenska Archives - attefall.digital</title>
+	<atom:link href="/tag/svenska/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 01 Jul 2009 09:13:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>svenska Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Voddler &#8211; premiär för ny svensk, strö&#8230;</title>
+		<link>/twitter/voddler-premiar-for-ny-svensk-stro/</link>
+					<comments>/twitter/voddler-premiar-for-ny-svensk-stro/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 01 Jul 2009 09:13:43 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[media]]></category>
+		<category><![CDATA[svenska]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Voddler]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/voddler-premiar-for-ny-svensk-stro/</guid>
+
+					<description><![CDATA[<p>Voddler &#8211; premiär för ny svensk, strömmad och reklamfinansierad filmtjänst: http://bit.ly/Y8vHB #svpt</p>
+<p>The post <a rel="nofollow" href="/twitter/voddler-premiar-for-ny-svensk-stro/">Voddler &#8211; premiär för ny svensk, strö&#8230;</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/voddler-premiar-for-ny-svensk-stro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alla Talar Svenska &#8211; Sverige i filmvärlden</title>
+		<link>/privat/alla-talar-svenska-sverige-i-filmvarlden/</link>
+					<comments>/privat/alla-talar-svenska-sverige-i-filmvarlden/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2008 11:15:48 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[bluray]]></category>
+		<category><![CDATA[dvd]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[hd]]></category>
+		<category><![CDATA[svenska]]></category>
+		<category><![CDATA[sverige]]></category>
+		<category><![CDATA[tv]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1105</guid>
+
+					<description><![CDATA[<p>Nyfiken på hur ofta Sverige och den svenska kulturen på något vis figurerar i filmer? Det kan handla om allt från hur Richard Gere i American Gigolo ska ta sig an en svensk klient till svenska som talas i 8 Simple Rules. Varhelst Sverige omnämns eller svenska talas inom tv och film hittar du det [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/privat/alla-talar-svenska-sverige-i-filmvarlden/">Alla Talar Svenska &#8211; Sverige i filmvärlden</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/alla-talar-svenska-sverige-i-filmvarlden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

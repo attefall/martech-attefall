@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NEC Archives - attefall.digital</title>
+	<atom:link href="/tag/nec/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 30 Jun 2009 10:20:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>NEC Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apple, Nokia, Samsung, Sony Ericsson, LG&#8230;</title>
+		<link>/twitter/apple-nokia-samsung-sony-ericsson-lg/</link>
+					<comments>/twitter/apple-nokia-samsung-sony-ericsson-lg/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 10:20:11 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[LG]]></category>
+		<category><![CDATA[mobilladdare]]></category>
+		<category><![CDATA[mobiltelefon]]></category>
+		<category><![CDATA[Motorola]]></category>
+		<category><![CDATA[NEC]]></category>
+		<category><![CDATA[Nokia]]></category>
+		<category><![CDATA[samsung]]></category>
+		<category><![CDATA[Sony Ericsson]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/apple-nokia-samsung-sony-ericsson-lg/</guid>
+
+					<description><![CDATA[<p>Apple, Nokia, Samsung, Sony Ericsson, LG, Motorola, NEC m.fl. släpper ny standardladdare: http://bit.ly/4b7Mup</p>
+<p>The post <a rel="nofollow" href="/twitter/apple-nokia-samsung-sony-ericsson-lg/">Apple, Nokia, Samsung, Sony Ericsson, LG&#8230;</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/apple-nokia-samsung-sony-ericsson-lg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

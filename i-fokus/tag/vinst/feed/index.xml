@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vinst Archives - attefall.digital</title>
+	<atom:link href="/tag/vinst/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 16 Apr 2010 09:12:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>vinst Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vinst för Sony Ericsson</title>
+		<link>/positiva-nyheter/vinst-fr-sony-ericsson/</link>
+					<comments>/positiva-nyheter/vinst-fr-sony-ericsson/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 16 Apr 2010 09:12:14 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[2010]]></category>
+		<category><![CDATA[mobil]]></category>
+		<category><![CDATA[Sony Ericsson]]></category>
+		<category><![CDATA[vinst]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2155</guid>
+
+					<description><![CDATA[<p>
+Efter flera år av tunga förluster kan svensk-japanska Sony Ericsson nu äntligen redovisa vinstsiffror igen. </p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/vinst-fr-sony-ericsson/">Vinst för Sony Ericsson</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/vinst-fr-sony-ericsson/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ã…rets Företagare i Sverige 2008</title>
+		<link>/positiva-nyheter/arets-foretagare-i-sverige-2008/</link>
+					<comments>/positiva-nyheter/arets-foretagare-i-sverige-2008/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2008 22:27:21 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[årets företagare]]></category>
+		<category><![CDATA[tävling]]></category>
+		<category><![CDATA[vinst]]></category>
+		<guid isPermaLink="false">https://attefall.se/positiva-nyheter/arets-foretagare-i-sverige-2008/</guid>
+
+					<description><![CDATA[<p>I år gick priset Ã…rets företagare till Marjaana Alaviuhkola som driver Hallands djursjukhus. Verksamheten har visat hög lönsamhet och djursjukhuset driver en mångsidig verksamhet då djursjukhuset erbjuder vård för alla sorters djur. &#187; Läs mer</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/arets-foretagare-i-sverige-2008/">Ã…rets Företagare i Sverige 2008</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/arets-foretagare-i-sverige-2008/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

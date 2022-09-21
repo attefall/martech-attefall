@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>communities Archives - attefall.digital</title>
+	<atom:link href="/tag/communities/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 05 Nov 2010 07:48:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>communities Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Social Commerce &#8211; hur du säljer genom sociala medier</title>
+		<link>/datorer-internet/internet-datorer-internet/social-commerce-hur-du-saljer-genom-sociala-medier/</link>
+					<comments>/datorer-internet/internet-datorer-internet/social-commerce-hur-du-saljer-genom-sociala-medier/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 05 Nov 2010 07:48:48 +0000</pubDate>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Projektledning]]></category>
+		<category><![CDATA[communities]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[försäljning]]></category>
+		<category><![CDATA[scialia medier]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=2385</guid>
+
+					<description><![CDATA[<p>Många företag har utforskat de möjligheter som de sociala medierna ger de senaste åren. Men nu är tiden inne för företagen att se hur de kan realisera direktförsäljning genom just de sociala medierna. </p>
+<p>The post <a rel="nofollow" href="/datorer-internet/internet-datorer-internet/social-commerce-hur-du-saljer-genom-sociala-medier/">Social Commerce &#8211; hur du säljer genom sociala medier</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/internet-datorer-internet/social-commerce-hur-du-saljer-genom-sociala-medier/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

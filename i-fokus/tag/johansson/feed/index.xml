@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>johansson Archives - attefall.digital</title>
+	<atom:link href="/tag/johansson/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 31 Dec 2007 12:40:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>johansson Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gott Nytt Ã…r 2008</title>
+		<link>/privat/gott-nytt-ar-2008/</link>
+					<comments>/privat/gott-nytt-ar-2008/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 31 Dec 2007 12:40:00 +0000</pubDate>
+				<category><![CDATA[Privat]]></category>
+		<category><![CDATA[2007]]></category>
+		<category><![CDATA[2008]]></category>
+		<category><![CDATA[attefall]]></category>
+		<category><![CDATA[gärdet]]></category>
+		<category><![CDATA[gott nytt år]]></category>
+		<category><![CDATA[johansson]]></category>
+		<category><![CDATA[ö-vik]]></category>
+		<category><![CDATA[örnsköldsvik]]></category>
+		<category><![CDATA[östermalm]]></category>
+		<category><![CDATA[råbbe]]></category>
+		<category><![CDATA[robin]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<guid isPermaLink="false">https://attefall.se/privat/gott-nytt-ar-2008/</guid>
+
+					<description><![CDATA[<p>[Robin &#8211; Alive &#38; Kicking! 🙂 klicka på bilden för större version] Jag avslutar detta blogg-år med ett citat min kära broder Robin sa när vi kollade på, var det mp3-?, högtalare en dag i Göteborg: Mina högtalare är runda och lika raka som bananer men fyrkantiga&#8230; Jag önskar er alla besökare ett Got Nytt [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/privat/gott-nytt-ar-2008/">Gott Nytt Ã…r 2008</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/privat/gott-nytt-ar-2008/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

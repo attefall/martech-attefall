@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>telepriskollen Archives - attefall.digital</title>
+	<atom:link href="/tag/telepriskollen/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 21 Mar 2011 12:30:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>telepriskollen Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nyheter &#8211; 20 mars, 2011</title>
+		<link>/lasvart/nyheter-20-mars-2011-2/</link>
+					<comments>/lasvart/nyheter-20-mars-2011-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2011 12:30:00 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[aa]]></category>
+		<category><![CDATA[affärsutveckling]]></category>
+		<category><![CDATA[deign]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[gratis]]></category>
+		<category><![CDATA[hus]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[prisjämförelse]]></category>
+		<category><![CDATA[pts]]></category>
+		<category><![CDATA[ritningar]]></category>
+		<category><![CDATA[roi]]></category>
+		<category><![CDATA[socialamedier]]></category>
+		<category><![CDATA[statistik]]></category>
+		<category><![CDATA[telepriskollen]]></category>
+		<category><![CDATA[tema]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[webbläsare]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://attefall.se/lasvart/nyheter-20-mars-2011-2/</guid>
+
+					<description><![CDATA[<p>Korta nyheter och l&#228;sv&#228;rda artiklar Ny version av Telepriskollen &#8211; Computer Sweden PTS har putsat upp Telepriskollen och lovar snabbare ber&#228;kningar och ett b&#228;ttre anv&#228;ndargr&#228;nssnitt. 10 sk&#228;l till att v&#228;lja Firefox 4 &#8211; Computer Sweden Firefox 4 sl&#228;pps p&#229; tisdag och valet av webbl&#228;sare &#228;r sv&#229;rare &#228;n n&#229;gonsin. H&#228;r &#228;r tio sk&#228;l som g&#246;r Firefox [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/lasvart/nyheter-20-mars-2011-2/">Nyheter &#8211; 20 mars, 2011</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/nyheter-20-mars-2011-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

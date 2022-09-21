@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Posterous Archives - attefall.digital</title>
+	<atom:link href="/tag/posterous/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sat, 09 Apr 2011 12:30:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Posterous Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nyheter &#8211; 8 april, 2011</title>
+		<link>/lasvart/nyheter-8-april-2011/</link>
+					<comments>/lasvart/nyheter-8-april-2011/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 09 Apr 2011 12:30:01 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[aa]]></category>
+		<category><![CDATA[affärsutveckling]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Bilder]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[Episerver]]></category>
+		<category><![CDATA[fotografier]]></category>
+		<category><![CDATA[Grönlunds]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[kuponger]]></category>
+		<category><![CDATA[marknadsföring]]></category>
+		<category><![CDATA[personalisering]]></category>
+		<category><![CDATA[Posterous]]></category>
+		<category><![CDATA[Posterous-grupper]]></category>
+		<category><![CDATA[Punch-Pizza]]></category>
+		<category><![CDATA[Room-34-Baseline]]></category>
+		<category><![CDATA[slideshow]]></category>
+		<category><![CDATA[socialamedier]]></category>
+		<category><![CDATA[tema]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[twtQpon]]></category>
+		<category><![CDATA[windows]]></category>
+		<category><![CDATA[WMware]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://attefall.se/lasvart/nyheter-8-april-2011/</guid>
+
+					<description><![CDATA[<p>Korta nyheter och l&#228;sv&#228;rda artiklar Digital case studies &#8211; Punch Pizza &#124; Best Practise. Show off your Posterous photos. Beautiful slideshows available now &#8211; The Official Posterous Posterous Fresh off the Posterous feature train is a fun new way to share your photos with friends, family and the world. Now anyone can easily view a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/lasvart/nyheter-8-april-2011/">Nyheter &#8211; 8 april, 2011</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/nyheter-8-april-2011/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

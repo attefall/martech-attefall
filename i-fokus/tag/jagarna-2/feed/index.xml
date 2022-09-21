@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jägarna 2 Archives - attefall.digital</title>
+	<atom:link href="/tag/jagarna-2/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 22 Sep 2011 20:10:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Jägarna 2 Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Jägarna 2</title>
+		<link>/recensioner/dvd-samlingen/jagarna-2/</link>
+					<comments>/recensioner/dvd-samlingen/jagarna-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 22 Sep 2011 20:10:20 +0000</pubDate>
+				<category><![CDATA[DVD-samlingen]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[Jägarna]]></category>
+		<category><![CDATA[Jägarna 2]]></category>
+		<category><![CDATA[recension]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=13571</guid>
+
+					<description><![CDATA[<p>Jag har lite svårt för Stormares "Norrländska" och jag skulle aldrig ha pluggat dramaturgi och video för jag stör mig t.om. på en del dåliga klippningar... Plus att jag fattade slutet innan det kom. ;-) </p>
+<p>The post <a rel="nofollow" href="/recensioner/dvd-samlingen/jagarna-2/">Jägarna 2</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/recensioner/dvd-samlingen/jagarna-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

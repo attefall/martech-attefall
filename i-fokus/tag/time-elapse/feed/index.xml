@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>time-elapse Archives - attefall.digital</title>
+	<atom:link href="/tag/time-elapse/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 10 Jul 2009 14:31:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>time-elapse Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bathtub &#8211; Tilt-Shift video</title>
+		<link>/positiva-nyheter/bathtub-tilt-shift-video/</link>
+					<comments>/positiva-nyheter/bathtub-tilt-shift-video/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2009 14:31:27 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[time-elapse]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=1418</guid>
+
+					<description><![CDATA[<p>Med ett Tilt-Shift objektiv och med timelapse-effekten har Keith Loutit gjort en serie videor som ger häftiga och annorlunda videor. Och ja &#8211; det Ã„R riktiga männsikor, byggnader, båtar och vatten&#8230; 🙂 Bathtub V av Keith Loutit (via nrkbeta.no)</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/bathtub-tilt-shift-video/">Bathtub &#8211; Tilt-Shift video</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/bathtub-tilt-shift-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

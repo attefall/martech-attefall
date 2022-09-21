@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Bachelor Priest	</title>
+	<atom:link href="/evenemang/humor-2/the-bachelor-priest/feed/" rel="self" type="application/rss+xml" />
+	<link>/evenemang/humor-2/the-bachelor-priest/</link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 20 Nov 2005 01:29:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>
+		By: Vil		</title>
+		<link>/evenemang/humor-2/the-bachelor-priest/#comment-150</link>
+
+		<dc:creator><![CDATA[Vil]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2005 01:29:46 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/2005/11/01/the-bachelor-priest/#comment-150</guid>
+
+					<description><![CDATA[THAT ROCKS!]]></description>
+			<content:encoded><![CDATA[<p>THAT ROCKS!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Vil		</title>
+		<link>/evenemang/humor-2/the-bachelor-priest/#comment-151</link>
+
+		<dc:creator><![CDATA[Vil]]></dc:creator>
+		<pubDate>Sun, 20 Nov 2005 01:29:00 +0000</pubDate>
+		<guid isPermaLink="false">https://attefall.se/2005/11/01/the-bachelor-priest/#comment-151</guid>
+
+					<description><![CDATA[THAT ROCKS!]]></description>
+			<content:encoded><![CDATA[<p>THAT ROCKS!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>paas Archives - attefall.digital</title>
+	<atom:link href="/tag/paas/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 16 Feb 2010 17:39:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>paas Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vad är Molnet? SaaS, PaaS och IaaS</title>
+		<link>/datorer-internet/internet-datorer-internet/vad-ar-molnet-saas-software/</link>
+					<comments>/datorer-internet/internet-datorer-internet/vad-ar-molnet-saas-software/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2010 17:39:17 +0000</pubDate>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[iaas]]></category>
+		<category><![CDATA[molnet]]></category>
+		<category><![CDATA[paas]]></category>
+		<category><![CDATA[saas]]></category>
+		<category><![CDATA[the cloud]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/vad-ar-molnet-saas-software/</guid>
+
+					<description><![CDATA[<p>Vad är Molnet? SaaS (Software as a Service), PaaS (Platform as a Service) och IaaS (Infrastructure as a Service). http://bit.ly/cKqevhc</p>
+<p>The post <a rel="nofollow" href="/datorer-internet/internet-datorer-internet/vad-ar-molnet-saas-software/">Vad är Molnet? SaaS, PaaS och IaaS</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/internet-datorer-internet/vad-ar-molnet-saas-software/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

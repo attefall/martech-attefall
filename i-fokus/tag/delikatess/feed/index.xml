@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>delikatess Archives - attefall.digital</title>
+	<atom:link href="/tag/delikatess/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 28 Nov 2008 14:49:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>delikatess Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vika delikatess &#8211; silvermedalj i Pentawards</title>
+		<link>/positiva-nyheter/vika-delikatess-silvermedalj-i-pentawards/</link>
+					<comments>/positiva-nyheter/vika-delikatess-silvermedalj-i-pentawards/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 28 Nov 2008 14:49:16 +0000</pubDate>
+				<category><![CDATA[Positiva Nyheter]]></category>
+		<category><![CDATA[delikatess]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[företag]]></category>
+		<category><![CDATA[knäckebröd]]></category>
+		<category><![CDATA[pentawards]]></category>
+		<category><![CDATA[vika]]></category>
+		<guid isPermaLink="false">https://attefall.se/positiva-nyheter/vika-delikatess-silvermedalj-i-pentawards/</guid>
+
+					<description><![CDATA[<p>Knäckebrödstillverkaren Vika delikatess tog hem en silvermedalj i Pentawards, en internationell tävling i förpackningsdesign. Närmare 700 bidrag var med och bedömdes i årets upplaga av tävlingen. Bakom designen ligger Identity Works. &#187; Läs mer på Resume.se Andra bloggar om knäckebröd, pentawards, vika delikatess.</p>
+<p>The post <a rel="nofollow" href="/positiva-nyheter/vika-delikatess-silvermedalj-i-pentawards/">Vika delikatess &#8211; silvermedalj i Pentawards</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/positiva-nyheter/vika-delikatess-silvermedalj-i-pentawards/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

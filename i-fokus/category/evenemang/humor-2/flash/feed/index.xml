@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Flash Archives - attefall.digital</title>
+	<atom:link href="/category/evenemang/humor-2/flash/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/evenemang/humor-2/flash/</link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sat, 09 Sep 2006 22:01:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Flash Archives - attefall.digital</title>
+	<link>/category/evenemang/humor-2/flash/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pong &#8211; The Movie</title>
+		<link>/evenemang/humor-2/pong-the-movie/</link>
+					<comments>/evenemang/humor-2/pong-the-movie/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 09 Sep 2006 22:01:35 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Humor]]></category>
+		<guid isPermaLink="false">https://attefall.se/2006/09/10/pong-the-movie/</guid>
+
+					<description><![CDATA[<p>Högerklicka ovan och sedan på Play / Spela. Du har säkert spelat Pong någong gång &#8211; här kommer filmen! Helt underbar! 🙂</p>
+<p>The post <a rel="nofollow" href="/evenemang/humor-2/pong-the-movie/">Pong &#8211; The Movie</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/evenemang/humor-2/pong-the-movie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Strippa av Britney Spears kläderna</title>
+		<link>/evenemang/humor-2/strippa-av-britney-spears-kladerna/</link>
+					<comments>/evenemang/humor-2/strippa-av-britney-spears-kladerna/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sat, 09 Sep 2006 09:16:55 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Humor]]></category>
+		<guid isPermaLink="false">https://attefall.se/2006/09/09/strippa-av-britney-spears-kladerna/</guid>
+
+					<description><![CDATA[<p>Klicka på Start ovan Testa att strippa av Britney Spears sina kläder. Men kom ihåg att du gör det på egen risk (försök att komma förbi nivå 2)! 🙂</p>
+<p>The post <a rel="nofollow" href="/evenemang/humor-2/strippa-av-britney-spears-kladerna/">Strippa av Britney Spears kläderna</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/evenemang/humor-2/strippa-av-britney-spears-kladerna/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

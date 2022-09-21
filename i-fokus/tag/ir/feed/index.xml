@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ir Archives - attefall.digital</title>
+	<atom:link href="/tag/ir/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 18 Jun 2010 09:38:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>ir Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>IR i sociala medier &#8211; så funkar det</title>
+		<link>/twitter/ir-i-sociala-medier-sa-funk/</link>
+					<comments>/twitter/ir-i-sociala-medier-sa-funk/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 18 Jun 2010 09:38:02 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[blogg]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[ir]]></category>
+		<category><![CDATA[kommunikation]]></category>
+		<category><![CDATA[sociala medier]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/ir-i-sociala-medier-sa-funk/</guid>
+
+					<description><![CDATA[<p>IR i sociala medier - så funkar det - Företag kan dra nytta av att kommunicera via Facebook och bloggar. </p>
+<p>The post <a rel="nofollow" href="/twitter/ir-i-sociala-medier-sa-funk/">IR i sociala medier &#8211; så funkar det</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/ir-i-sociala-medier-sa-funk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Livestream Archives - attefall.digital</title>
+	<atom:link href="/tag/livestream/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 02 Mar 2015 15:31:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Livestream Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Livestream, GoToMeeting Free, Get 120% more e-mail signups, Mobile Video Advertising…</title>
+		<link>/lasvart/livestream-gotomeeting-free-get-120-more-e-mail-signups-mobile-video-advertising/</link>
+					<comments>/lasvart/livestream-gotomeeting-free-get-120-more-e-mail-signups-mobile-video-advertising/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2015 15:31:16 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[Advertising]]></category>
+		<category><![CDATA[Content Marketing]]></category>
+		<category><![CDATA[GoToMeeting]]></category>
+		<category><![CDATA[Livestream]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16226</guid>
+
+					<description><![CDATA[<p>* 3 Minutes to Get 120% More Emails on Your WordPress Site<br />
+* 4 Simple Steps to Writing a Blog Post That Floods Your Inbox with Inquiries<br />
+* 6 Steps for Writing Simple Copy That Sells<br />
+* The Ultimate Mobile Video Advertising Guide 2014<br />
+* 30 Amazing Examples of Loading Bar Designs for Your Inspiration<br />
+* GoToMeeting Free – Meetings without the hassle<br />
+* Mobiloperatörernas nya SL-avtal öppnar för supersurf i tunnelbanan<br />
+* Livestream Broadcaster Mini Lets You Stream HD Video from Any Camera<br />
+* Testa din hemsidas laddningstid med 9 gratis tjänster</p>
+<p>The post <a rel="nofollow" href="/lasvart/livestream-gotomeeting-free-get-120-more-e-mail-signups-mobile-video-advertising/">Livestream, GoToMeeting Free, Get 120% more e-mail signups, Mobile Video Advertising…</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/livestream-gotomeeting-free-get-120-more-e-mail-signups-mobile-video-advertising/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

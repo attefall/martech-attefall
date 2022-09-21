@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>internet explorer 9 Archives - attefall.digital</title>
+	<atom:link href="/tag/internet-explorer-9/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 17 Mar 2010 10:25:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>internet explorer 9 Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Internet Explorer 9 &#8211; testa i dag</title>
+		<link>/datorer-internet/internet-datorer-internet/internet-explorer-9-testa-i/</link>
+					<comments>/datorer-internet/internet-datorer-internet/internet-explorer-9-testa-i/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 17 Mar 2010 10:25:36 +0000</pubDate>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[beta]]></category>
+		<category><![CDATA[internet explorer 9]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[webbläsare]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/internet-explorer-9-testa-i/</guid>
+
+					<description><![CDATA[<p>Internet Explorer 9 &#8211; testa i dag. Inte färdig utan en plattform för testning och demonstration. http://bit.ly/amHCXC #webbl ï¿½sare #ie9</p>
+<p>The post <a rel="nofollow" href="/datorer-internet/internet-datorer-internet/internet-explorer-9-testa-i/">Internet Explorer 9 &#8211; testa i dag</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/datorer-internet/internet-datorer-internet/internet-explorer-9-testa-i/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

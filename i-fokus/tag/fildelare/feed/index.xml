@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fildelare Archives - attefall.digital</title>
+	<atom:link href="/tag/fildelare/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Thu, 25 Jun 2009 13:21:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>fildelare Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Det första Ipred-fallet är a&#8230;</title>
+		<link>/twitter/det-forsta-ipred-fallet-ar-a/</link>
+					<comments>/twitter/det-forsta-ipred-fallet-ar-a/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2009 13:21:55 +0000</pubDate>
+				<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Ephone]]></category>
+		<category><![CDATA[fildelare]]></category>
+		<category><![CDATA[ipred]]></category>
+		<category><![CDATA[the piratebay]]></category>
+		<category><![CDATA[torrent]]></category>
+		<category><![CDATA[tracker]]></category>
+		<guid isPermaLink="false">https://attefall.se/twitter/det-forsta-ipred-fallet-ar-a/</guid>
+
+					<description><![CDATA[<p>Det första Ipred-fallet är avgjort. Internetleverantören Ephone tvingas lämna ut uppgifter om en misstänkt fildelare: http://bit.ly/AdK8e</p>
+<p>The post <a rel="nofollow" href="/twitter/det-forsta-ipred-fallet-ar-a/">Det första Ipred-fallet är a&#8230;</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/twitter/det-forsta-ipred-fallet-ar-a/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

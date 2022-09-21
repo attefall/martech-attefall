@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>löv Archives - attefall.digital</title>
+	<atom:link href="/tag/lov/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 21 Oct 2007 13:10:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>löv Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Höstlöv på Djurgården</title>
+		<link>/foton/hostlov-pa-djurgarden/</link>
+					<comments>/foton/hostlov-pa-djurgarden/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2007 13:10:21 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[I fokus]]></category>
+		<category><![CDATA[djurgården]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[höst]]></category>
+		<category><![CDATA[löv]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/hostlov-pa-djurgarden/</guid>
+
+					<description><![CDATA[<p>Härligt med alla färger som kommer med hösten&#8230; 🙂 [geo_mashup_show_on_map_link]</p>
+<p>The post <a rel="nofollow" href="/foton/hostlov-pa-djurgarden/">Höstlöv på Djurgården</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/hostlov-pa-djurgarden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Höst i Stockholm, grusväg på Djurgården</title>
+		<link>/foton/host-i-stockholm-grusvag-pa-djurgarden/</link>
+					<comments>/foton/host-i-stockholm-grusvag-pa-djurgarden/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 18 Oct 2006 15:31:42 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[djurgården]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[höst]]></category>
+		<category><![CDATA[löv]]></category>
+		<category><![CDATA[träd]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/host-i-stockholm-grusvag-pa-djurgarden/</guid>
+
+					<description><![CDATA[<p>[klicka på bilden för större version]</p>
+<p>The post <a rel="nofollow" href="/foton/host-i-stockholm-grusvag-pa-djurgarden/">Höst i Stockholm, grusväg på Djurgården</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/host-i-stockholm-grusvag-pa-djurgarden/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

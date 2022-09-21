@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>biblioteksgatan Archives - attefall.digital</title>
+	<atom:link href="/tag/biblioteksgatan/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Sun, 10 Dec 2006 13:58:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>biblioteksgatan Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vinter i Stockholm, Biblioteksgatan</title>
+		<link>/foton/vinter-i-stockholm-biblioteksgatan/</link>
+					<comments>/foton/vinter-i-stockholm-biblioteksgatan/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2006 13:58:27 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[biblioteksgatan]]></category>
+		<category><![CDATA[foto]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<category><![CDATA[vinter]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/vinter-i-stockholm-biblioteksgatan/</guid>
+
+					<description><![CDATA[<p>[klicka på bilden för större version] Well, &#8220;vinter&#8221; å vinter&#8230; När kommer snön!? *längtar* 🙂</p>
+<p>The post <a rel="nofollow" href="/foton/vinter-i-stockholm-biblioteksgatan/">Vinter i Stockholm, Biblioteksgatan</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/vinter-i-stockholm-biblioteksgatan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

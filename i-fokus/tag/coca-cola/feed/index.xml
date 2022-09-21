@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>coca-cola Archives - attefall.digital</title>
+	<atom:link href="/tag/coca-cola/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Fri, 25 Mar 2011 12:30:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>coca-cola Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nyheter &#8211; 24 mars, 2011</title>
+		<link>/lasvart/nyheter-24-mars-2011-2/</link>
+					<comments>/lasvart/nyheter-24-mars-2011-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Fri, 25 Mar 2011 12:30:00 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[aa]]></category>
+		<category><![CDATA[anoonser]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[blogg]]></category>
+		<category><![CDATA[coca-cola]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[dokumenthantering]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[googlaapps]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[googledocs]]></category>
+		<category><![CDATA[GotoWebinar]]></category>
+		<category><![CDATA[läsvärt]]></category>
+		<category><![CDATA[layout]]></category>
+		<category><![CDATA[marknadsföring]]></category>
+		<category><![CDATA[molnet]]></category>
+		<category><![CDATA[opensource]]></category>
+		<category><![CDATA[presentation]]></category>
+		<category><![CDATA[samarbete]]></category>
+		<category><![CDATA[socialamedier]]></category>
+		<category><![CDATA[tema]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[webinar]]></category>
+		<category><![CDATA[wordpress]]></category>
+		<guid isPermaLink="false">https://attefall.se/lasvart/nyheter-24-mars-2011-2/</guid>
+
+					<description><![CDATA[<p>Korta nyheter och l&#228;sv&#228;rda artiklar Sju vanliga myter om &#246;ppna program &#8211; Computer Sweden &#214;ppna program &#228;r i dag en naturlig ingrediens i m&#229;nga f&#246;retags it-verksamhet. Det har f&#246;rt med sig att synen p&#229; programmen har mognat, men det finns m&#229;nga missuppfattningar kvar. H&#228;r f&#246;ljer de sju fr&#228;msta myterna om &#246;ppna program enligt Joel Wickman, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/lasvart/nyheter-24-mars-2011-2/">Nyheter &#8211; 24 mars, 2011</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/nyheter-24-mars-2011-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

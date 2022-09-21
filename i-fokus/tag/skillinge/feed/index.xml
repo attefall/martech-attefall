@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Skillinge Archives - attefall.digital</title>
+	<atom:link href="/tag/skillinge/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Mon, 25 Jul 2011 12:26:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Skillinge Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My brother in Smygehuk</title>
+		<link>/foton/my-brother-in-smygehuk/</link>
+					<comments>/foton/my-brother-in-smygehuk/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2011 12:26:36 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[broder]]></category>
+		<category><![CDATA[porträtt]]></category>
+		<category><![CDATA[robin]]></category>
+		<category><![CDATA[semester 2011]]></category>
+		<category><![CDATA[Skillinge]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/my-brother-in-smygehuk/</guid>
+
+					<description><![CDATA[<p>The windy day.</p>
+<p>The post <a rel="nofollow" href="/foton/my-brother-in-smygehuk/">My brother in Smygehuk</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/my-brother-in-smygehuk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The ocean outside Skillinge</title>
+		<link>/foton/the-ocean-outside-skillinge/</link>
+					<comments>/foton/the-ocean-outside-skillinge/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2011 12:19:29 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[hav]]></category>
+		<category><![CDATA[semester 2011]]></category>
+		<category><![CDATA[Skillinge]]></category>
+		<category><![CDATA[strand]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/the-ocean-outside-skillinge/</guid>
+
+					<description><![CDATA[<p>This day it was very windy!</p>
+<p>The post <a rel="nofollow" href="/foton/the-ocean-outside-skillinge/">The ocean outside Skillinge</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/the-ocean-outside-skillinge/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>View from the cottage</title>
+		<link>/foton/view-from-the-cottage/</link>
+					<comments>/foton/view-from-the-cottage/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 25 Jul 2011 12:12:59 +0000</pubDate>
+				<category><![CDATA[Foton]]></category>
+		<category><![CDATA[semester 2011]]></category>
+		<category><![CDATA[Skillinge]]></category>
+		<category><![CDATA[stuga]]></category>
+		<category><![CDATA[utsikt]]></category>
+		<guid isPermaLink="false">https://attefall.se/foton/view-from-the-cottage/</guid>
+
+					<description><![CDATA[<p>Just behind the trees is the ocean.</p>
+<p>The post <a rel="nofollow" href="/foton/view-from-the-cottage/">View from the cottage</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/foton/view-from-the-cottage/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
