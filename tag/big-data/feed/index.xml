@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Big Data Archives - attefall.digital</title>
+	<atom:link href="/tag/big-data/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Tue, 18 Jul 2017 15:31:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>Big Data Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Big Data, Smarta hemmet, Hitta.se, portabilitet…</title>
+		<link>/lasvart/big-data-smarta-hemmet-hitta-se-portabilitet/</link>
+					<comments>/lasvart/big-data-smarta-hemmet-hitta-se-portabilitet/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2017 15:31:02 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[hitta.se]]></category>
+		<category><![CDATA[portabilitet]]></category>
+		<category><![CDATA[Smarta hemmet]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16839</guid>
+
+					<description><![CDATA[<p>» 3 stora risker för integriteten med big data?<br />
+» Glöm portabilitet i molnet – det kostar för mycket?<br />
+» Smarta hemmet – standarder, installation, utbud<br />
+» App Store-uppdatering ger utvecklare större möjligheter att bemöta kritik?<br />
+» Schibsted säljer Hitta.se – till Hemnets ägare med flera</p>
+<p>The post <a rel="nofollow" href="/lasvart/big-data-smarta-hemmet-hitta-se-portabilitet/">Big Data, Smarta hemmet, Hitta.se, portabilitet…</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/big-data-smarta-hemmet-hitta-se-portabilitet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>B2C Archives - attefall.digital</title>
+	<atom:link href="/tag/b2c/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>by Magnus Attefall</description>
+	<lastBuildDate>Wed, 09 Sep 2015 16:31:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-Magnus-Attefall-MarTech-Manager-32x32.jpg</url>
+	<title>B2C Archives - attefall.digital</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Google Ventures, B2B vs. B2C, Effective Conversion Optimization Strategy, Efficient on Social Media…</title>
+		<link>/lasvart/google-ventures-b2b-vs-b2c-effective-conversion-optimization-strategy-efficient-on-social-media/</link>
+					<comments>/lasvart/google-ventures-b2b-vs-b2c-effective-conversion-optimization-strategy-efficient-on-social-media/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Wed, 09 Sep 2015 16:31:35 +0000</pubDate>
+				<category><![CDATA[Worth Reading]]></category>
+		<category><![CDATA[b2b]]></category>
+		<category><![CDATA[B2C]]></category>
+		<category><![CDATA[Conversion]]></category>
+		<category><![CDATA[Google Ventures]]></category>
+		<category><![CDATA[social media]]></category>
+		<category><![CDATA[strategy]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=16457</guid>
+
+					<description><![CDATA[<p>News: Google Ventures, B2B vs. B2C, Effective Conversion Optimization Strategy, Efficient on Social Media… » Read more here </p>
+<p>The post <a rel="nofollow" href="/lasvart/google-ventures-b2b-vs-b2c-effective-conversion-optimization-strategy-efficient-on-social-media/">Google Ventures, B2B vs. B2C, Effective Conversion Optimization Strategy, Efficient on Social Media…</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/lasvart/google-ventures-b2b-vs-b2c-effective-conversion-optimization-strategy-efficient-on-social-media/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Framtidens kommunikation B2C &#8211; #blogg100</title>
+		<link>/blogg100/framtidens-kommunikation-b2c-blogg100/</link>
+					<comments>/blogg100/framtidens-kommunikation-b2c-blogg100/#respond</comments>
+		
+		<dc:creator><![CDATA[Magnus Attefall]]></dc:creator>
+		<pubDate>Mon, 04 Feb 2013 19:53:55 +0000</pubDate>
+				<category><![CDATA[#blogg100]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[B2C]]></category>
+		<category><![CDATA[kommunikation]]></category>
+		<guid isPermaLink="false">https://attefall.se/?p=14768</guid>
+
+					<description><![CDATA[<p>Framtidens kommunikation B2C - hur kommer den att se ut? Har mejlen spelat ut sin roll?</p>
+<p>The post <a rel="nofollow" href="/blogg100/framtidens-kommunikation-b2c-blogg100/">Framtidens kommunikation B2C &#8211; #blogg100</a> appeared first on <a rel="nofollow" href="/">attefall.digital</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/blogg100/framtidens-kommunikation-b2c-blogg100/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
